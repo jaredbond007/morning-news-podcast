@@ -1,0 +1,82 @@
+name: Publish episodes
+
+on:
+  push:
+    paths:
+      - "episodes/incoming/**"
+      - "podcast.py"
+      - "config.json"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check for work
+        id: check
+        run: |
+          count=$(find episodes/incoming -type f \( -name '*.md' -o -name '*.txt' \) 2>/dev/null | wc -l)
+          echo "count=$count" >> "$GITHUB_OUTPUT"
+          echo "Found $count incoming file(s)."
+
+      - uses: actions/setup-python@v5
+        if: steps.check.outputs.count != '0'
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install system audio tools
+        if: steps.check.outputs.count != '0'
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg espeak-ng
+
+      - name: Install Python packages
+        if: steps.check.outputs.count != '0'
+        run: pip install -r requirements.txt
+
+      - name: Build episodes
+        if: steps.check.outputs.count != '0'
+        run: python podcast.py
+
+      - name: Commit audio and feed
+        if: steps.check.outputs.count != '0'
+        run: |
+          git config user.name "morning-news-bot"
+          git config user.email "noreply@github.com"
+          git add -A docs episodes episodes.json
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git commit -m "Publish episodes ($(date -u +%Y-%m-%d))"
+          git pull --rebase --autostash
+          git push
+
+      - name: Verify the feed is live
+        if: steps.check.outputs.count != '0'
+        run: |
+          url="https://jaredbond007.github.io/morning-news-podcast/feed.xml"
+          echo "Waiting for GitHub Pages to serve the rebuilt feed..."
+          for attempt in $(seq 1 20); do
+            sleep 30
+            body=$(curl -fsSL "$url" || true)
+            newest=$(ls -t docs/audio/*.mp3 2>/dev/null | head -1 | xargs -r basename)
+            if [ -n "$newest" ] && printf '%s' "$body" | grep -q "$newest"; then
+              echo "Confirmed live: $newest is in the published feed."
+              exit 0
+            fi
+            echo "  attempt $attempt: not there yet"
+          done
+          echo "::warning::The feed did not show the newest episode within 10 minutes. The commit succeeded, so this is most likely a Pages delay. Check $url"
