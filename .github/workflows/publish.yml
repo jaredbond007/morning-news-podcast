@@ -2,9 +2,11 @@ name: Publish episodes
 
 on:
   schedule:
-    # Every 30 minutes from 7:00am to 1:30pm Central, which is when the
-    # newsletters land. UTC, so 12:00-18:30 during CDT.
-    - cron: "*/30 12-18 * * *"
+    # Every 5 minutes from 7:00am to 1:55pm Central, which is when the
+    # newsletters land. UTC, so 12:00-18:55 during CDT. Five minutes is GitHub's
+    # minimum. GitHub often starts scheduled runs 5 to 15 minutes late.
+    # A run with nothing new finishes in about 10 seconds.
+    - cron: "*/5 12-18 * * *"
   push:
     paths:
       - "episodes/incoming/**"
