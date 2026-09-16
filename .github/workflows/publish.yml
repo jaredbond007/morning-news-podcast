@@ -1,11 +1,17 @@
 name: Publish episodes
 
 on:
+  schedule:
+    # Every 30 minutes from 7:00am to 1:30pm Central, which is when the
+    # newsletters land. UTC, so 12:00-18:30 during CDT.
+    - cron: "*/30 12-18 * * *"
   push:
     paths:
       - "episodes/incoming/**"
       - "podcast.py"
+      - "fetch_queue.py"
       - "config.json"
+      - ".github/workflows/publish.yml"
   workflow_dispatch:
 
 permissions:
@@ -22,6 +28,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+
+      - name: Pull new summaries from the queue document
+        run: python3 fetch_queue.py
 
       - name: Check for work
         id: check
