@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-16-rundown-ai",
+      "title": "The Rundown AI \u2014 Sep 16: ChatGPT co creator launches new kind of AI model",
+      "description": "September sixteenth, twenty twenty six. The Rundown AI newsletter. ChatGPT co creator launches new kind of AI model.",
+      "newsletter": "rundown-ai",
+      "published": "2026-09-16T12:48:30+00:00",
+      "audio": "audio/2026-09-16-rundown-ai.mp3",
+      "bytes": 4163565,
+      "duration": 520,
+      "turns": 19
+    },
+    {
       "id": "2026-09-16-1440",
       "title": "The 1440 Daily Digest \u2014 Sep 16: Space Weapons, Treasury Yields, and a Trapped Raccoon",
       "description": "September sixteenth, twenty twenty six. The 1440 Daily Digest newsletter. Space Weapons, Treasury Yields, and a Trapped Raccoon.",
