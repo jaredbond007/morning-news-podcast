@@ -7,7 +7,7 @@
     <link>https://jaredbond007.github.io/morning-news-podcast/</link>
     <description>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 12:48:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:44:28 +0000</lastBuildDate>
     <atom:link href="https://jaredbond007.github.io/morning-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jared A. Bond</itunes:author>
     <itunes:summary>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</itunes:summary>
@@ -18,6 +18,16 @@
     <itunes:image href="https://jaredbond007.github.io/morning-news-podcast/cover.png"/>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Superhuman — Sep 16: ChatGPT's co inventor drops a model that can't hallucinate</title>
+      <description>September sixteenth, twenty twenty six. The Superhuman newsletter. ChatGPT's co inventor drops a model that can't hallucinate.</description>
+      <pubDate>Wed, 16 Sep 2026 13:44:28 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-09-16-superhuman.mp3" length="3629997" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-09-16-superhuman</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>7:34</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>The Rundown AI — Sep 16: ChatGPT co creator launches new kind of AI model</title>
       <description>September sixteenth, twenty twenty six. The Rundown AI newsletter. ChatGPT co creator launches new kind of AI model.</description>

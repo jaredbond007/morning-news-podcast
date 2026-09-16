@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-16-superhuman",
+      "title": "Superhuman \u2014 Sep 16: ChatGPT's co inventor drops a model that can't hallucinate",
+      "description": "September sixteenth, twenty twenty six. The Superhuman newsletter. ChatGPT's co inventor drops a model that can't hallucinate.",
+      "newsletter": "superhuman",
+      "published": "2026-09-16T13:44:28+00:00",
+      "audio": "audio/2026-09-16-superhuman.mp3",
+      "bytes": 3629997,
+      "duration": 454,
+      "turns": 12
+    },
+    {
       "id": "2026-09-16-rundown-ai",
       "title": "The Rundown AI \u2014 Sep 16: ChatGPT co creator launches new kind of AI model",
       "description": "September sixteenth, twenty twenty six. The Rundown AI newsletter. ChatGPT co creator launches new kind of AI model.",
