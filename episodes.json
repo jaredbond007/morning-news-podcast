@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-16-1440",
+      "title": "The 1440 Daily Digest \u2014 Sep 16: Space Weapons, Treasury Yields, and a Trapped Raccoon",
+      "description": "September sixteenth, twenty twenty six. The 1440 Daily Digest newsletter. Space Weapons, Treasury Yields, and a Trapped Raccoon.",
+      "newsletter": "1440",
+      "published": "2026-09-16T12:13:04+00:00",
+      "audio": "audio/2026-09-16-1440.mp3",
+      "bytes": 3131373,
+      "duration": 391,
+      "turns": 9
+    },
+    {
       "id": "2026-09-15-1440",
       "title": "The 1440 Daily Digest \u2014 Sep 15: Emmy Winners, Power Plant Limits, and Butter Boutique",
       "description": "September fifteenth, twenty twenty six. The 1440 Daily Digest newsletter. Emmy Winners, Power Plant Limits, and Butter Boutique.",
