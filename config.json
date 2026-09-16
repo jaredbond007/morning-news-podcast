@@ -1,0 +1,49 @@
+{
+  "show": {
+    "title": "Jared's Morning News",
+    "description": "Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.",
+    "author": "Jared A. Bond",
+    "email": "jaredbond007@gmail.com",
+    "language": "en-us",
+    "category": "News",
+    "explicit": "no",
+    "site_url": "https://jaredbond007.github.io/morning-news-podcast/",
+    "feed_path": "feed.xml",
+    "cover_file": "cover.png"
+  },
+
+  "voices": {
+    "primary": { "id": "af_heart", "lang": "a" },
+    "secondary": { "id": "bm_george", "lang": "b" }
+  },
+
+  "audio": {
+    "sample_rate": 24000,
+    "mp3_bitrate": "64k",
+    "pause_between_turns_ms": 350,
+    "loudness_target_lufs": -16.0
+  },
+
+  "newsletters": {
+    "1440": "The 1440 Daily Digest",
+    "rundown-ai": "The Rundown AI",
+    "superhuman": "Superhuman",
+    "robotics": "The Rundown Robotics"
+  },
+
+  "pronunciation": [
+    ["1440", "fourteen forty"],
+    ["S&P", "S and P"],
+    ["&", " and "],
+    ["%", " percent"],
+    ["GLP-1", "GLP one"],
+    ["AI", "A.I."],
+    ["EPA", "E.P.A."],
+    ["HBO", "H.B.O."],
+    ["PGA", "P.G.A."],
+    ["SVU", "S.V.U."],
+    ["CEO", "C.E.O."],
+    ["USA", "U.S.A."],
+    ["OKC", "Oklahoma City"]
+  ]
+}

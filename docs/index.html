@@ -1,0 +1,26 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Jared's Morning News</title>
+<style>
+  :root { color-scheme: light dark; --bg:#0f172a; --fg:#e2e8f0; --muted:#94a3b8; --accent:#facc15; }
+  body { margin:0; padding:2rem 1.25rem 4rem; background:var(--bg); color:var(--fg);
+         font:16px/1.6 system-ui, sans-serif; }
+  main { max-width:44rem; margin:0 auto; }
+  img { width:180px; border-radius:14px; display:block; }
+  h1 { font-size:1.9rem; margin:1.25rem 0 .25rem; }
+  p.sub { color:var(--muted); margin-top:0; }
+  .feed { display:inline-block; margin:1rem 0 2rem; padding:.7rem 1.1rem; border:2px solid var(--accent);
+          border-radius:999px; color:var(--accent); text-decoration:none; font-weight:600; }
+  code { background:rgba(148,163,184,.18); padding:.15rem .4rem; border-radius:5px; word-break:break-all; }
+  li { margin:.4rem 0; }
+</style>
+<main>
+  <img src="cover.png" alt="Morning News cover art">
+  <h1>Jared's Morning News</h1>
+  <p class="sub">Daily newsletter summaries, read aloud. One episode per newsletter, published as each one arrives.</p>
+  <a class="feed" href="feed.xml">RSS feed</a>
+  <h2>Subscribe</h2>
+  <p>In any podcast app that accepts a feed by URL, such as Pocket Casts or AntennaPod, add this address:</p>
+  <p><code>https://jaredbond007.github.io/morning-news-podcast/feed.xml</code></p>
+</main>
