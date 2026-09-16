@@ -12,8 +12,9 @@
     "cover_file": "cover.png"
   },
   "queue": {
+    "google_folder_id": "1lg_vRwqT0aTDryMsIhMkvRRoW4J3pOl3",
     "google_doc_id": "1Yt6_ohajVSyTiSZlbLKDYu9e02zMqhmIQOsZ6bLFqjA",
-    "comment": "Google Doc that the newsletter chat appends summaries to. Must be shared as 'Anyone with the link can view'."
+    "comment": "google_folder_id is the Drive folder 'Morning News Podcast Episodes' where the newsletter chat creates one file per episode, titled 'EPISODE yyyy-mm-dd key'. google_doc_id is the old single queue doc, still read if present. Both must be shared 'Anyone with the link can view'."
   },
   "voices": {
     "primary": {
