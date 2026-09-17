@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-17-superhuman",
+      "title": "Superhuman \u2014 Sep 17: Claude's simplified upgrade",
+      "description": "September seventeenth, twenty twenty six. The Superhuman newsletter. Claude's simplified upgrade.",
+      "newsletter": "superhuman",
+      "published": "2026-09-17T13:36:19+00:00",
+      "audio": "audio/2026-09-17-superhuman.mp3",
+      "bytes": 1062573,
+      "duration": 133,
+      "turns": 5
+    },
+    {
       "id": "2026-09-17-rundown-ai",
       "title": "The Rundown AI \u2014 Sep 17: Zuck sits out the AI slowdown",
       "description": "September seventeenth, twenty twenty six. The Rundown AI newsletter. Zuck sits out the AI slowdown.",
