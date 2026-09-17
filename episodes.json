@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-17-robotics",
+      "title": "The Rundown Robotics \u2014 Sep 17: Agility's new safer humanoid",
+      "description": "September seventeenth, twenty twenty six. The Rundown Robotics newsletter. Agility's new safer humanoid.",
+      "newsletter": "robotics",
+      "published": "2026-09-17T14:46:59+00:00",
+      "audio": "audio/2026-09-17-robotics.mp3",
+      "bytes": 1433709,
+      "duration": 179,
+      "turns": 5
+    },
+    {
       "id": "2026-09-17-superhuman",
       "title": "Superhuman \u2014 Sep 17: Claude's simplified upgrade",
       "description": "September seventeenth, twenty twenty six. The Superhuman newsletter. Claude's simplified upgrade.",
