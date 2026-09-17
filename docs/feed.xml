@@ -7,7 +7,7 @@
     <link>https://jaredbond007.github.io/morning-news-podcast/</link>
     <description>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 13:44:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:12:48 +0000</lastBuildDate>
     <atom:link href="https://jaredbond007.github.io/morning-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jared A. Bond</itunes:author>
     <itunes:summary>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</itunes:summary>
@@ -18,6 +18,26 @@
     <itunes:image href="https://jaredbond007.github.io/morning-news-podcast/cover.png"/>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>The Rundown AI — Sep 17: Zuck sits out the AI slowdown</title>
+      <description>September seventeenth, twenty twenty six. The Rundown AI newsletter. Zuck sits out the AI slowdown.</description>
+      <pubDate>Thu, 17 Sep 2026 12:12:48 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-09-17-rundown-ai.mp3" length="965037" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-09-17-rundown-ai</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>2:01</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The 1440 Daily Digest — Sep 17: Fed Rate, Human Mouse Brains, and Toy Hall of Fame</title>
+      <description>September seventeenth, twenty twenty six. The 1440 Daily Digest newsletter. Fed Rate, Human Mouse Brains, and Toy Hall of Fame.</description>
+      <pubDate>Thu, 17 Sep 2026 12:12:14 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-09-17-1440.mp3" length="1182765" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-09-17-1440</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>2:28</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Superhuman — Sep 16: ChatGPT's co inventor drops a model that can't hallucinate</title>
       <description>September sixteenth, twenty twenty six. The Superhuman newsletter. ChatGPT's co inventor drops a model that can't hallucinate.</description>

@@ -1,6 +1,28 @@
 {
   "episodes": [
     {
+      "id": "2026-09-17-rundown-ai",
+      "title": "The Rundown AI \u2014 Sep 17: Zuck sits out the AI slowdown",
+      "description": "September seventeenth, twenty twenty six. The Rundown AI newsletter. Zuck sits out the AI slowdown.",
+      "newsletter": "rundown-ai",
+      "published": "2026-09-17T12:12:48+00:00",
+      "audio": "audio/2026-09-17-rundown-ai.mp3",
+      "bytes": 965037,
+      "duration": 121,
+      "turns": 3
+    },
+    {
+      "id": "2026-09-17-1440",
+      "title": "The 1440 Daily Digest \u2014 Sep 17: Fed Rate, Human Mouse Brains, and Toy Hall of Fame",
+      "description": "September seventeenth, twenty twenty six. The 1440 Daily Digest newsletter. Fed Rate, Human Mouse Brains, and Toy Hall of Fame.",
+      "newsletter": "1440",
+      "published": "2026-09-17T12:12:14+00:00",
+      "audio": "audio/2026-09-17-1440.mp3",
+      "bytes": 1182765,
+      "duration": 148,
+      "turns": 4
+    },
+    {
       "id": "2026-09-16-superhuman",
       "title": "Superhuman \u2014 Sep 16: ChatGPT's co inventor drops a model that can't hallucinate",
       "description": "September sixteenth, twenty twenty six. The Superhuman newsletter. ChatGPT's co inventor drops a model that can't hallucinate.",
