@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-18-superhuman",
+      "title": "Superhuman \u2014 Sep 18: OpenAI's model tried jailbreaking itself",
+      "description": "September eighteenth, twenty twenty six. The Superhuman newsletter. OpenAI's model tried jailbreaking itself.",
+      "newsletter": "superhuman",
+      "published": "2026-09-18T13:27:17+00:00",
+      "audio": "audio/2026-09-18-superhuman.mp3",
+      "bytes": 1260525,
+      "duration": 158,
+      "turns": 7
+    },
+    {
       "id": "2026-09-18-rundown-ai",
       "title": "The Rundown AI \u2014 Sep 18: Inside OpenAI's log of misbehaving models",
       "description": "September eighteenth, twenty twenty six. The Rundown AI newsletter. Inside OpenAI's log of misbehaving models.",
