@@ -1,6 +1,28 @@
 {
   "episodes": [
     {
+      "id": "2026-09-18-rundown-ai",
+      "title": "The Rundown AI \u2014 Sep 18: Inside OpenAI's log of misbehaving models",
+      "description": "September eighteenth, twenty twenty six. The Rundown AI newsletter. Inside OpenAI's log of misbehaving models.",
+      "newsletter": "rundown-ai",
+      "published": "2026-09-18T12:13:41+00:00",
+      "audio": "audio/2026-09-18-rundown-ai.mp3",
+      "bytes": 1397421,
+      "duration": 175,
+      "turns": 6
+    },
+    {
+      "id": "2026-09-18-1440",
+      "title": "The 1440 Daily Digest \u2014 Sep 18: New AI Incidents, Fiji's HIV Crisis, and Romantic Costco",
+      "description": "September eighteenth, twenty twenty six. The 1440 Daily Digest newsletter. New AI Incidents, Fiji's HIV Crisis, and Romantic Costco.",
+      "newsletter": "1440",
+      "published": "2026-09-18T12:12:15+00:00",
+      "audio": "audio/2026-09-18-1440.mp3",
+      "bytes": 1240173,
+      "duration": 155,
+      "turns": 4
+    },
+    {
       "id": "2026-09-17-robotics",
       "title": "The Rundown Robotics \u2014 Sep 17: Agility's new safer humanoid",
       "description": "September seventeenth, twenty twenty six. The Rundown Robotics newsletter. Agility's new safer humanoid.",
