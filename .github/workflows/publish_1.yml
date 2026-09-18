@@ -1,0 +1,96 @@
+name: Publish episodes
+
+on:
+  schedule:
+    # Every 5 minutes while it is 08:00 to 18:55 UTC. That is 3:00am to 1:55pm
+    # Central on daylight time, and 2:00am to 12:55pm Central on standard time.
+    # It covers every run, from 1440 at 3:35am Central through the Superhuman
+    # weekend run at 11:19am Central. Widened from 12-18 on 2026-09-18 when the
+    # newsletter runs moved earlier. Five minutes is GitHub's minimum, and
+    # GitHub often starts scheduled runs 5 to 15 minutes late.
+    # A run with nothing new finishes in about 10 seconds.
+    - cron: "*/5 8-18 * * *"
+  push:
+    paths:
+      - "episodes/incoming/**"
+      - "podcast.py"
+      - "fetch_queue.py"
+      - "config.json"
+      - ".github/workflows/publish.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull new summaries from the queue document
+        run: python3 fetch_queue.py
+
+      - name: Check for work
+        id: check
+        run: |
+          count=$(find episodes/incoming -type f \( -name '*.md' -o -name '*.txt' \) 2>/dev/null | wc -l)
+          echo "count=$count" >> "$GITHUB_OUTPUT"
+          echo "Found $count incoming file(s)."
+
+      - uses: actions/setup-python@v5
+        if: steps.check.outputs.count != '0'
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install system audio tools
+        if: steps.check.outputs.count != '0'
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg espeak-ng
+
+      - name: Install Python packages
+        if: steps.check.outputs.count != '0'
+        run: pip install -r requirements.txt
+
+      - name: Build episodes
+        if: steps.check.outputs.count != '0'
+        run: python podcast.py
+
+      - name: Commit audio and feed
+        if: steps.check.outputs.count != '0'
+        run: |
+          git config user.name "morning-news-bot"
+          git config user.email "noreply@github.com"
+          git add -A docs episodes episodes.json
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git commit -m "Publish episodes ($(date -u +%Y-%m-%d))"
+          git pull --rebase --autostash
+          git push
+
+      - name: Verify the feed is live
+        if: steps.check.outputs.count != '0'
+        run: |
+          url="https://jaredbond007.github.io/morning-news-podcast/feed.xml"
+          echo "Waiting for GitHub Pages to serve the rebuilt feed..."
+          for attempt in $(seq 1 20); do
+            sleep 30
+            body=$(curl -fsSL "$url" || true)
+            newest=$(ls -t docs/audio/*.mp3 2>/dev/null | head -1 | xargs -r basename)
+            if [ -n "$newest" ] && printf '%s' "$body" | grep -q "$newest"; then
+              echo "Confirmed live: $newest is in the published feed."
+              exit 0
+            fi
+            echo "  attempt $attempt: not there yet"
+          done
+          echo "::warning::The feed did not show the newest episode within 10 minutes. The commit succeeded, so this is most likely a Pages delay. Check $url"
