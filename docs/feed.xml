@@ -7,7 +7,7 @@
     <link>https://jaredbond007.github.io/morning-news-podcast/</link>
     <description>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 13:27:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 08:47:25 +0000</lastBuildDate>
     <atom:link href="https://jaredbond007.github.io/morning-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jared A. Bond</itunes:author>
     <itunes:summary>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</itunes:summary>
@@ -18,6 +18,16 @@
     <itunes:image href="https://jaredbond007.github.io/morning-news-podcast/cover.png"/>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>The 1440 Daily Digest — Sep 19: Warren Buffett, UFO Files, and Haunted Hotels</title>
+      <description>September nineteenth, twenty twenty six. The 1440 Daily Digest newsletter. Warren Buffett, UFO Files, and Haunted Hotels.</description>
+      <pubDate>Sat, 19 Sep 2026 08:47:25 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-09-19-1440.mp3" length="518253" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-09-19-1440</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>1:05</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Superhuman — Sep 18: OpenAI's model tried jailbreaking itself</title>
       <description>September eighteenth, twenty twenty six. The Superhuman newsletter. OpenAI's model tried jailbreaking itself.</description>

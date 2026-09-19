@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-19-1440",
+      "title": "The 1440 Daily Digest \u2014 Sep 19: Warren Buffett, UFO Files, and Haunted Hotels",
+      "description": "September nineteenth, twenty twenty six. The 1440 Daily Digest newsletter. Warren Buffett, UFO Files, and Haunted Hotels.",
+      "newsletter": "1440",
+      "published": "2026-09-19T08:47:25+00:00",
+      "audio": "audio/2026-09-19-1440.mp3",
+      "bytes": 518253,
+      "duration": 65,
+      "turns": 2
+    },
+    {
       "id": "2026-09-18-superhuman",
       "title": "Superhuman \u2014 Sep 18: OpenAI's model tried jailbreaking itself",
       "description": "September eighteenth, twenty twenty six. The Superhuman newsletter. OpenAI's model tried jailbreaking itself.",
