@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-19-superhuman",
+      "title": "Superhuman \u2014 Sep 19: Robots now have their own ambulance services",
+      "description": "September nineteenth, twenty twenty six. The Superhuman newsletter. Robots now have their own ambulance services.",
+      "newsletter": "superhuman",
+      "published": "2026-09-19T16:28:50+00:00",
+      "audio": "audio/2026-09-19-superhuman.mp3",
+      "bytes": 1493037,
+      "duration": 187,
+      "turns": 9
+    },
+    {
       "id": "2026-09-19-1440",
       "title": "The 1440 Daily Digest \u2014 Sep 19: Warren Buffett, UFO Files, and Haunted Hotels",
       "description": "September nineteenth, twenty twenty six. The 1440 Daily Digest newsletter. Warren Buffett, UFO Files, and Haunted Hotels.",
