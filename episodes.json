@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-20-superhuman",
+      "title": "Superhuman \u2014 Sep 20: The T",
+      "description": "September twentieth, twenty twenty six. The Superhuman newsletter. The T. rex detail scientists got badly wrong.",
+      "newsletter": "superhuman",
+      "published": "2026-09-20T16:31:31+00:00",
+      "audio": "audio/2026-09-20-superhuman.mp3",
+      "bytes": 1270701,
+      "duration": 159,
+      "turns": 7
+    },
+    {
       "id": "2026-09-19-superhuman",
       "title": "Superhuman \u2014 Sep 19: Robots now have their own ambulance services",
       "description": "September nineteenth, twenty twenty six. The Superhuman newsletter. Robots now have their own ambulance services.",
