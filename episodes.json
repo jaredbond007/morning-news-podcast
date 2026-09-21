@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-21-rundown-ai",
+      "title": "The Rundown AI \u2014 Sep 21: September twenty first, twenty twenty six",
+      "description": "September twenty first, twenty twenty six. The Rundown AI newsletter. OpenAI goes from hacker to hacked.",
+      "newsletter": "rundown-ai",
+      "published": "2026-09-21T10:33:03+00:00",
+      "audio": "audio/2026-09-21-rundown-ai.mp3",
+      "bytes": 1354989,
+      "duration": 169,
+      "turns": 6
+    },
+    {
       "id": "2026-09-21-1440",
       "title": "The 1440 Daily Digest \u2014 Sep 21: September twenty first, twenty twenty six",
       "description": "September twenty first, twenty twenty six. The 1440 Daily Digest newsletter. Greenland Deal, Moscow Attacks, and Gen Alpha Slang.",

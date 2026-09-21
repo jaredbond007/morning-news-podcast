@@ -1,0 +1,14 @@
+DATE: 2026-09-21
+SOURCE: drive-folder
+---
+September twenty first, twenty twenty six. The Rundown AI newsletter. OpenAI goes from hacker to hacked.
+
+Security startup Hacktron AI revealed that its three researchers got inside OpenAI's private codebase in under seventy two hours this July, taking over employee accounts in an attack that Anthropic's Claude helped write. They used an image upload bug to get into OpenAI's community forum, where a second flaw let staff sign in tokens also unlock their ChatGPT accounts. Claude Opus five finished the attack within a day of its release, picking up where a restricted Opus four point eight version for cyber professionals had stalled. The team left a signed proof of concept edit on an internal OpenAI document, reported the hole, and collected a six thousand five hundred dollar bounty. Hacktron says the same image software flaws also let it into Slack, Meta and GitHub Enterprise, and only one target caught it mid attempt. If three people can do this in three days, it raises hard questions about what well funded criminal groups can now pull off.
+
+This week's Rundown Roundtable shares two staff setups. A video editor uses Magnific to extend widescreen footage into vertical video without heavy cropping, and a creative strategist uses ChatGPT as a family cooking journal, turning dish photos and voice notes into recipes she can make again. The full write up is in the email.
+
+Today's AI training guide is part two of an OpenRouter series. It shows how to turn your OpenRouter connection into a reusable image skill pack for the images you make most often, then have the agent test and score its own prompts and model choices. The full guide is in the email.
+
+Anthropic has reportedly set up a new Bay Area lab for physical biology experiments run with Claude, a day after publishing research showing open source biology AI tools running about four times faster with its tuning. A Reuters source says the goal is Claude steering lab robots with little human help, though Anthropic calls human oversight essential. The company says drug discovery is not the lab's specific purpose, and it is holding off on human trials partly to avoid competing with its pharmaceutical clients. Claude generated code that sped up more than thirty biomolecular models in a month, and in tests it designed proteins for about one hundred fifty dollars in computing, matching runs that cost up to ten thousand dollars a target. With Claude already able to run microscopes and robotic arms, a physical lab gives it somewhere real to point them.
+
+The community workflow of the day comes from an anonymous reader, pregnant with her second child and without a doula this time, who had ChatGPT gather free expert resources into a mini course on labor positions, plus a cheat sheet for her husband to use during labor. It saved her hours of research. The full workflow is in the email.
