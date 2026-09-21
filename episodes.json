@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-21-superhuman",
+      "title": "Superhuman \u2014 Sep 21: September twenty first, twenty twenty six",
+      "description": "September twenty first, twenty twenty six. The Superhuman newsletter. OpenAI gets hacked.",
+      "newsletter": "superhuman",
+      "published": "2026-09-21T13:31:20+00:00",
+      "audio": "audio/2026-09-21-superhuman.mp3",
+      "bytes": 1330605,
+      "duration": 166,
+      "turns": 8
+    },
+    {
       "id": "2026-09-21-rundown-ai",
       "title": "The Rundown AI \u2014 Sep 21: September twenty first, twenty twenty six",
       "description": "September twenty first, twenty twenty six. The Rundown AI newsletter. OpenAI goes from hacker to hacked.",
