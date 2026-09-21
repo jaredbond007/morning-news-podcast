@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-21-1440",
+      "title": "The 1440 Daily Digest \u2014 Sep 21: September twenty first, twenty twenty six",
+      "description": "September twenty first, twenty twenty six. The 1440 Daily Digest newsletter. Greenland Deal, Moscow Attacks, and Gen Alpha Slang.",
+      "newsletter": "1440",
+      "published": "2026-09-21T08:40:57+00:00",
+      "audio": "audio/2026-09-21-1440.mp3",
+      "bytes": 1155117,
+      "duration": 144,
+      "turns": 4
+    },
+    {
       "id": "2026-09-20-superhuman",
       "title": "Superhuman \u2014 Sep 20: The T",
       "description": "September twentieth, twenty twenty six. The Superhuman newsletter. The T. rex detail scientists got badly wrong.",
