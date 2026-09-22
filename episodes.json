@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-22-superhuman",
+      "title": "Superhuman \u2014 Sep 22: September twenty second, twenty twenty six",
+      "description": "September twenty second, twenty twenty six. The Superhuman newsletter. Another math breakthrough by OpenAI.",
+      "newsletter": "superhuman",
+      "published": "2026-09-22T13:36:11+00:00",
+      "audio": "audio/2026-09-22-superhuman.mp3",
+      "bytes": 1242861,
+      "duration": 155,
+      "turns": 8
+    },
+    {
       "id": "2026-09-22-rundown-ai",
       "title": "The Rundown AI \u2014 Sep 22: September twenty second, twenty twenty six",
       "description": "September twenty second, twenty twenty six. The Rundown AI newsletter. Amazon shuts out Meta's Muse.",
