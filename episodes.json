@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-22-1440",
+      "title": "The 1440 Daily Digest \u2014 Sep 22: September twenty second, twenty twenty six",
+      "description": "September twenty second, twenty twenty six. The 1440 Daily Digest newsletter. Press Pool Boycott, Edible Batteries, and a Caffeine Revolution.",
+      "newsletter": "1440",
+      "published": "2026-09-22T08:51:49+00:00",
+      "audio": "audio/2026-09-22-1440.mp3",
+      "bytes": 1204653,
+      "duration": 151,
+      "turns": 4
+    },
+    {
       "id": "2026-09-21-superhuman",
       "title": "Superhuman \u2014 Sep 21: September twenty first, twenty twenty six",
       "description": "September twenty first, twenty twenty six. The Superhuman newsletter. OpenAI gets hacked.",
