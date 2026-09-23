@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-23-superhuman",
+      "title": "Superhuman \u2014 Sep 23: September twenty third, twenty twenty six",
+      "description": "September twenty third, twenty twenty six. The Superhuman newsletter. Anthropic's Opus 5.5 matches Fable, but cheaper.",
+      "newsletter": "superhuman",
+      "published": "2026-09-23T13:33:02+00:00",
+      "audio": "audio/2026-09-23-superhuman.mp3",
+      "bytes": 1085229,
+      "duration": 136,
+      "turns": 7
+    },
+    {
       "id": "2026-09-23-rundown-ai",
       "title": "The Rundown AI \u2014 Sep 23: September twenty third, twenty twenty six",
       "description": "September twenty third, twenty twenty six. The Rundown AI newsletter. Anthropic, OpenAI's dueling release day.",
