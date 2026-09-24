@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-24-rundown-ai",
+      "title": "The Rundown AI \u2014 Sep 24: September twenty fourth, twenty twenty six",
+      "description": "September twenty fourth, twenty twenty six. The Rundown AI newsletter. Anthropic's AI biology lab makes its first find.",
+      "newsletter": "rundown-ai",
+      "published": "2026-09-24T10:26:12+00:00",
+      "audio": "audio/2026-09-24-rundown-ai.mp3",
+      "bytes": 1465773,
+      "duration": 183,
+      "turns": 6
+    },
+    {
       "id": "2026-09-24-1440",
       "title": "The 1440 Daily Digest \u2014 Sep 24: September twenty fourth, twenty twenty six",
       "description": "September twenty fourth, twenty twenty six. The 1440 Daily Digest newsletter. Iran UN Speech, Cancer Test, and Vomiting Fish.",
