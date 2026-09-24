@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-24-superhuman",
+      "title": "Superhuman \u2014 Sep 24: September twenty fourth, twenty twenty six",
+      "description": "September twenty fourth, twenty twenty six. The Superhuman newsletter. Anthropic's first major scientific discovery?",
+      "newsletter": "superhuman",
+      "published": "2026-09-24T13:38:14+00:00",
+      "audio": "audio/2026-09-24-superhuman.mp3",
+      "bytes": 1268397,
+      "duration": 159,
+      "turns": 8
+    },
+    {
       "id": "2026-09-24-rundown-ai",
       "title": "The Rundown AI \u2014 Sep 24: September twenty fourth, twenty twenty six",
       "description": "September twenty fourth, twenty twenty six. The Rundown AI newsletter. Anthropic's AI biology lab makes its first find.",
