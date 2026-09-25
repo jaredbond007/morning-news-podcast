@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-25-1440",
+      "title": "The 1440 Daily Digest \u2014 Sep 25: September twenty fifth, twenty twenty six",
+      "description": "September twenty fifth, twenty twenty six. The 1440 Daily Digest newsletter. Trump Xi Summit, Self Medicating Elephants, and Hairy Questions.",
+      "newsletter": "1440",
+      "published": "2026-09-25T08:42:18+00:00",
+      "audio": "audio/2026-09-25-1440.mp3",
+      "bytes": 2214189,
+      "duration": 277,
+      "turns": 7
+    },
+    {
       "id": "2026-09-24-superhuman",
       "title": "Superhuman \u2014 Sep 24: September twenty fourth, twenty twenty six",
       "description": "September twenty fourth, twenty twenty six. The Superhuman newsletter. Anthropic's first major scientific discovery?",
