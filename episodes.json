@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-25-superhuman",
+      "title": "Superhuman \u2014 Sep 25: September twenty fifth, twenty twenty six",
+      "description": "September twenty fifth, twenty twenty six. The Superhuman newsletter. Hey Google, prepare for launch.",
+      "newsletter": "superhuman",
+      "published": "2026-09-25T13:38:23+00:00",
+      "audio": "audio/2026-09-25-superhuman.mp3",
+      "bytes": 1338477,
+      "duration": 167,
+      "turns": 7
+    },
+    {
       "id": "2026-09-25-rundown-ai",
       "title": "The Rundown AI \u2014 Sep 25: September twenty fifth, twenty twenty six",
       "description": "September twenty fifth, twenty twenty six. The Rundown AI newsletter. Meta's Connect turns into a Muse takeover.",
