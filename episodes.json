@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-25-rundown-ai",
+      "title": "The Rundown AI \u2014 Sep 25: September twenty fifth, twenty twenty six",
+      "description": "September twenty fifth, twenty twenty six. The Rundown AI newsletter. Meta's Connect turns into a Muse takeover.",
+      "newsletter": "rundown-ai",
+      "published": "2026-09-25T10:25:58+00:00",
+      "audio": "audio/2026-09-25-rundown-ai.mp3",
+      "bytes": 1240365,
+      "duration": 155,
+      "turns": 5
+    },
+    {
       "id": "2026-09-25-1440",
       "title": "The 1440 Daily Digest \u2014 Sep 25: September twenty fifth, twenty twenty six",
       "description": "September twenty fifth, twenty twenty six. The 1440 Daily Digest newsletter. Trump Xi Summit, Self Medicating Elephants, and Hairy Questions.",
