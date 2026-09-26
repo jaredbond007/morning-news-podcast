@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-26-1440",
+      "title": "The 1440 Daily Digest \u2014 Sep 26: September twenty sixth, twenty twenty six",
+      "description": "September twenty sixth, twenty twenty six. The 1440 Daily Digest newsletter. Rainforest Radar, Voter Screening, and Parisian Butter.",
+      "newsletter": "1440",
+      "published": "2026-09-26T08:49:19+00:00",
+      "audio": "audio/2026-09-26-1440.mp3",
+      "bytes": 1525485,
+      "duration": 191,
+      "turns": 9
+    },
+    {
       "id": "2026-09-25-superhuman",
       "title": "Superhuman \u2014 Sep 25: September twenty fifth, twenty twenty six",
       "description": "September twenty fifth, twenty twenty six. The Superhuman newsletter. Hey Google, prepare for launch.",
