@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-27-superhuman",
+      "title": "Superhuman \u2014 Sep 27: September twenty seventh, twenty twenty six",
+      "description": "September twenty seventh, twenty twenty six. The Superhuman newsletter. Scientists discover heat tolerant fire amoeba.",
+      "newsletter": "superhuman",
+      "published": "2026-09-27T16:35:45+00:00",
+      "audio": "audio/2026-09-27-superhuman.mp3",
+      "bytes": 1228461,
+      "duration": 154,
+      "turns": 7
+    },
+    {
       "id": "2026-09-26-superhuman",
       "title": "Superhuman \u2014 Sep 26: September twenty sixth, twenty twenty six",
       "description": "September twenty sixth, twenty twenty six. The Superhuman newsletter. This startup pays you to record your chores.",
