@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-28-1440",
+      "title": "The 1440 Daily Digest \u2014 Sep 28: September twenty eighth, twenty twenty six",
+      "description": "September twenty eighth, twenty twenty six. The 1440 Daily Digest newsletter. Early Nor'easter, Missouri Maps, and Attention Span Fixes.",
+      "newsletter": "1440",
+      "published": "2026-09-28T08:48:42+00:00",
+      "audio": "audio/2026-09-28-1440.mp3",
+      "bytes": 2127021,
+      "duration": 266,
+      "turns": 7
+    },
+    {
       "id": "2026-09-27-superhuman",
       "title": "Superhuman \u2014 Sep 27: September twenty seventh, twenty twenty six",
       "description": "September twenty seventh, twenty twenty six. The Superhuman newsletter. Scientists discover heat tolerant fire amoeba.",
