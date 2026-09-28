@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-28-superhuman",
+      "title": "Superhuman \u2014 Sep 28: September twenty eighth, twenty twenty six",
+      "description": "September twenty eighth, twenty twenty six. The Superhuman newsletter. Meet the new Copilot.",
+      "newsletter": "superhuman",
+      "published": "2026-09-28T13:34:33+00:00",
+      "audio": "audio/2026-09-28-superhuman.mp3",
+      "bytes": 1418925,
+      "duration": 177,
+      "turns": 8
+    },
+    {
       "id": "2026-09-28-rundown-ai",
       "title": "The Rundown AI \u2014 Sep 28: September twenty eighth, twenty twenty six",
       "description": "September twenty eighth, twenty twenty six. The Rundown AI newsletter. OpenAI's agents go rogue on Washington.",
