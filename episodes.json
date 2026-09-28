@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-28-rundown-ai",
+      "title": "The Rundown AI \u2014 Sep 28: September twenty eighth, twenty twenty six",
+      "description": "September twenty eighth, twenty twenty six. The Rundown AI newsletter. OpenAI's agents go rogue on Washington.",
+      "newsletter": "rundown-ai",
+      "published": "2026-09-28T10:22:04+00:00",
+      "audio": "audio/2026-09-28-rundown-ai.mp3",
+      "bytes": 1425453,
+      "duration": 178,
+      "turns": 6
+    },
+    {
       "id": "2026-09-28-1440",
       "title": "The 1440 Daily Digest \u2014 Sep 28: September twenty eighth, twenty twenty six",
       "description": "September twenty eighth, twenty twenty six. The 1440 Daily Digest newsletter. Early Nor'easter, Missouri Maps, and Attention Span Fixes.",
