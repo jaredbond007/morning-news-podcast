@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-29-rundown-ai",
+      "title": "The Rundown AI \u2014 Sep 29: September twenty ninth, twenty twenty six",
+      "description": "September twenty ninth, twenty twenty six. The Rundown AI newsletter. Anthropic raises the bar on DevDay eve.",
+      "newsletter": "rundown-ai",
+      "published": "2026-09-29T10:38:29+00:00",
+      "audio": "audio/2026-09-29-rundown-ai.mp3",
+      "bytes": 1545453,
+      "duration": 193,
+      "turns": 6
+    },
+    {
       "id": "2026-09-29-1440",
       "title": "The 1440 Daily Digest \u2014 Sep 29: September twenty ninth, twenty twenty six",
       "description": "September twenty ninth, twenty twenty six. The 1440 Daily Digest newsletter. Mega Steel Mill, Nvidia Buyback, and a Slang Test.",
