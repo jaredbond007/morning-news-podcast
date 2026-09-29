@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-29-1440",
+      "title": "The 1440 Daily Digest \u2014 Sep 29: September twenty ninth, twenty twenty six",
+      "description": "September twenty ninth, twenty twenty six. The 1440 Daily Digest newsletter. Mega Steel Mill, Nvidia Buyback, and a Slang Test.",
+      "newsletter": "1440",
+      "published": "2026-09-29T08:48:18+00:00",
+      "audio": "audio/2026-09-29-1440.mp3",
+      "bytes": 2161773,
+      "duration": 270,
+      "turns": 7
+    },
+    {
       "id": "2026-09-28-superhuman",
       "title": "Superhuman \u2014 Sep 28: September twenty eighth, twenty twenty six",
       "description": "September twenty eighth, twenty twenty six. The Superhuman newsletter. Meet the new Copilot.",
