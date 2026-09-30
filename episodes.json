@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-09-30-1440",
+      "title": "The 1440 Daily Digest \u2014 Sep 30: Hacker Arrest, Oura IPO, and a Nav Friend",
+      "description": "September thirtieth, twenty twenty six. The 1440 Daily Digest newsletter. Hacker Arrest, Oura IPO, and a Nav Friend.",
+      "newsletter": "1440",
+      "published": "2026-09-30T08:50:21+00:00",
+      "audio": "audio/2026-09-30-1440.mp3",
+      "bytes": 2125485,
+      "duration": 266,
+      "turns": 7
+    },
+    {
       "id": "2026-09-29-superhuman",
       "title": "Superhuman \u2014 Sep 29: September twenty ninth, twenty twenty six",
       "description": "September twenty ninth, twenty twenty six. The Superhuman newsletter. AI's tidal wave continues.",
