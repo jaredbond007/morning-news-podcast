@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-01-rundown-ai",
+      "title": "The Rundown AI \u2014 Oct 1: Google's comeback bid starts with Gemini 4",
+      "description": "October first, twenty twenty six. The Rundown AI newsletter. Google's comeback bid starts with Gemini 4.",
+      "newsletter": "rundown-ai",
+      "published": "2026-10-01T10:26:33+00:00",
+      "audio": "audio/2026-10-01-rundown-ai.mp3",
+      "bytes": 1466349,
+      "duration": 183,
+      "turns": 6
+    },
+    {
       "id": "2026-10-01-1440",
       "title": "The 1440 Daily Digest \u2014 Oct 1: FlyDubai Attack, FTC Probe, and Fattest Bear",
       "description": "October first, twenty twenty six. The 1440 Daily Digest newsletter. FlyDubai Attack, FTC Probe, and Fattest Bear.",
