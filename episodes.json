@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-01-robotics",
+      "title": "The Rundown Robotics \u2014 Oct 1: DoorDash puts its own drone on the menu",
+      "description": "October first, twenty twenty six. The Rundown Robotics newsletter. DoorDash puts its own drone on the menu.",
+      "newsletter": "robotics",
+      "published": "2026-10-01T15:20:22+00:00",
+      "audio": "audio/2026-10-01-robotics.mp3",
+      "bytes": 1425261,
+      "duration": 178,
+      "turns": 5
+    },
+    {
       "id": "2026-10-01-superhuman",
       "title": "Superhuman \u2014 Oct 1: Is Gemini back?",
       "description": "October first, twenty twenty six. The Superhuman newsletter. Is Gemini back?",
