@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-01-superhuman",
+      "title": "Superhuman \u2014 Oct 1: Is Gemini back?",
+      "description": "October first, twenty twenty six. The Superhuman newsletter. Is Gemini back?",
+      "newsletter": "superhuman",
+      "published": "2026-10-01T13:30:43+00:00",
+      "audio": "audio/2026-10-01-superhuman.mp3",
+      "bytes": 1369581,
+      "duration": 171,
+      "turns": 8
+    },
+    {
       "id": "2026-10-01-rundown-ai",
       "title": "The Rundown AI \u2014 Oct 1: Google's comeback bid starts with Gemini 4",
       "description": "October first, twenty twenty six. The Rundown AI newsletter. Google's comeback bid starts with Gemini 4.",
