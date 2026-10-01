@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-01-1440",
+      "title": "The 1440 Daily Digest \u2014 Oct 1: FlyDubai Attack, FTC Probe, and Fattest Bear",
+      "description": "October first, twenty twenty six. The 1440 Daily Digest newsletter. FlyDubai Attack, FTC Probe, and Fattest Bear.",
+      "newsletter": "1440",
+      "published": "2026-10-01T08:50:53+00:00",
+      "audio": "audio/2026-10-01-1440.mp3",
+      "bytes": 2096685,
+      "duration": 262,
+      "turns": 7
+    },
+    {
       "id": "2026-09-30-superhuman",
       "title": "Superhuman \u2014 Sep 30: OpenAI ships an adorable rival to Meta's Muse",
       "description": "September thirtieth, twenty twenty six. The Superhuman newsletter. OpenAI ships an adorable rival to Meta's Muse.",
