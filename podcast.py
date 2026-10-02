@@ -107,7 +107,7 @@ def make_title(first_turn: str, newsletter_label: str, date_str: str) -> str:
         low = s.lower()
         if "newsletter" in low or newsletter_label.lower() in low:
             continue
-        if re.match(r"^[A-Z][a-z]+ \w+, twenty", s):
+        if re.match(r"^[A-Z][a-z]+ [\w ]+, twenty twenty", s):
             continue
         subject = s.strip().rstrip(".")
         break
