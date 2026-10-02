@@ -34,6 +34,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # A scheduled run can sit in the "publish" concurrency queue while the run
+      # ahead of it builds and pushes an episode. Its checkout is then stale, so
+      # without this it rebuilds the same episode and fails at the push. Syncing
+      # here lets fetch_queue.py see the episode in episodes.json and skip it.
+      # Added 2026-10-02 after the 2026-10-01 robotics double run.
+      - name: Sync to the latest main
+        run: git pull --rebase --autostash origin "$GITHUB_REF_NAME"
+
       - name: Pull new summaries from the queue document
         run: python3 fetch_queue.py
 
