@@ -1,0 +1,14 @@
+DATE: 2026-10-02
+SOURCE: drive-folder
+---
+October second, twenty twenty six. The Rundown AI newsletter. Tavus' AI looks, listens, and talks back live.
+
+First, Tavus' Griffin passes for human on video calls. The AI startup Tavus previewed Griffin, which it calls a Human Interaction Model: a lifelike person on screen that can hear, see, talk and react over live video. Instead of waiting its turn, it nods mid sentence and works details from your screen into its answers. In a face to face study of the lighter Griffin Lite version, forty eight percent of participants believed they were talking to a real person, up from just two point four percent with earlier models. It also came within nine hundredths of a point of real people on NVIDIA's natural video chat test and beat the next best AI model by more than a point. For now Griffin Lite is limited to trusted testers while Tavus works on safety and disclosure features. Why it matters: a lifelike tutor or a companion for an aging parent are real upsides, but in the wrong hands it could be a scammer's dream.
+
+Rowan's Corner this week describes his recurring AI performance review. Every three months he exports the last ninety days of his chatbot history, runs the same audit prompt in Claude, and has it compare the results with his previous audit to show what actually changed, like better delegation or a new bad habit. His steps and prompt are in a free document linked in the email.
+
+Today's AI training guide walks through setting up ChatGPT Dots, OpenAI's new always on agent, and helps you decide whether it is worth upgrading to ChatGPT Pro at one hundred dollars a month to use it, weighing things like Slack use, data privacy and rival agents. The full guide is in the email.
+
+Then, Google's AI watermarks cross into the lab. Google DeepMind introduced SynthID Bio, a proof of concept that extends its AI watermarking to proteins. It tweaks the protein folding model AlphaFold three to leave a hidden pattern in the protein shapes it predicts, without hurting accuracy. Lab tests found the watermarked proteins still worked once produced, and the marks stayed detectable in physical form. The goal is to help companies that make custom DNA trace unfamiliar AI designs, which today can need slow manual review, though Google says it offers no complete safety guarantee and is still working against tampering. The Rundown says tracing AI designed biology should be far less controversial than other watermarking, given how fast these lab tools are advancing.
+
+The community AI workflow of the day comes from an anonymous reader who manages exports and operations at an Australian poultry processor. Over about ten weeks with ChatGPT and Sites, they built a management system that tracks export inquiries, purchase orders, maintenance, supplier certificates, food safety records and live water tank levels in one place. The full workflow is in the email.

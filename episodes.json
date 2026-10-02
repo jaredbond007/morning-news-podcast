@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-02-rundown-ai",
+      "title": "The Rundown AI \u2014 Oct 2: Tavus' AI looks, listens, and talks back live",
+      "description": "October second, twenty twenty six. The Rundown AI newsletter. Tavus' AI looks, listens, and talks back live.",
+      "newsletter": "rundown-ai",
+      "published": "2026-10-02T10:28:33+00:00",
+      "audio": "audio/2026-10-02-rundown-ai.mp3",
+      "bytes": 1354797,
+      "duration": 169,
+      "turns": 6
+    },
+    {
       "id": "2026-10-02-1440",
       "title": "The 1440 Daily Digest \u2014 Oct 2: Death Penalty Pause, Speech Clock, and the Best of September",
       "description": "October second, twenty twenty six. The 1440 Daily Digest newsletter. Death Penalty Pause, Speech Clock, and the Best of September.",
