@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-02-superhuman",
+      "title": "Superhuman \u2014 Oct 2: Can you tell this avatar is AI? Forty eight percent can't",
+      "description": "October second, twenty twenty six. The Superhuman newsletter. Can you tell this avatar is AI? Forty eight percent can't.",
+      "newsletter": "superhuman",
+      "published": "2026-10-02T13:39:45+00:00",
+      "audio": "audio/2026-10-02-superhuman.mp3",
+      "bytes": 1178349,
+      "duration": 147,
+      "turns": 7
+    },
+    {
       "id": "2026-10-02-rundown-ai",
       "title": "The Rundown AI \u2014 Oct 2: Tavus' AI looks, listens, and talks back live",
       "description": "October second, twenty twenty six. The Rundown AI newsletter. Tavus' AI looks, listens, and talks back live.",
