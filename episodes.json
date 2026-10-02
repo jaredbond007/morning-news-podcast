@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-02-1440",
+      "title": "The 1440 Daily Digest \u2014 Oct 2: Death Penalty Pause, Speech Clock, and the Best of September",
+      "description": "October second, twenty twenty six. The 1440 Daily Digest newsletter. Death Penalty Pause, Speech Clock, and the Best of September.",
+      "newsletter": "1440",
+      "published": "2026-10-02T08:46:53+00:00",
+      "audio": "audio/2026-10-02-1440.mp3",
+      "bytes": 2264685,
+      "duration": 283,
+      "turns": 7
+    },
+    {
       "id": "2026-10-01-robotics",
       "title": "The Rundown Robotics \u2014 Oct 1: DoorDash puts its own drone on the menu",
       "description": "October first, twenty twenty six. The Rundown Robotics newsletter. DoorDash puts its own drone on the menu.",
