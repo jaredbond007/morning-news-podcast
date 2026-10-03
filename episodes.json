@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-03-1440",
+      "title": "The 1440 Daily Digest \u2014 Oct 3: College Sports Cash, Feathered Dinosaurs, and Pumpkin States",
+      "description": "October third, twenty twenty six. The 1440 Daily Digest newsletter. College Sports Cash, Feathered Dinosaurs, and Pumpkin States.",
+      "newsletter": "1440",
+      "published": "2026-10-03T08:43:55+00:00",
+      "audio": "audio/2026-10-03-1440.mp3",
+      "bytes": 1496493,
+      "duration": 187,
+      "turns": 8
+    },
+    {
       "id": "2026-10-02-superhuman",
       "title": "Superhuman \u2014 Oct 2: Can you tell this avatar is AI? Forty eight percent can't",
       "description": "October second, twenty twenty six. The Superhuman newsletter. Can you tell this avatar is AI? Forty eight percent can't.",
