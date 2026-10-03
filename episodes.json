@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-03-superhuman",
+      "title": "Superhuman \u2014 Oct 3: Your DoorDash order may arrive by drone",
+      "description": "October third, twenty twenty six. The Superhuman newsletter. Your DoorDash order may arrive by drone.",
+      "newsletter": "superhuman",
+      "published": "2026-10-03T18:38:27+00:00",
+      "audio": "audio/2026-10-03-superhuman.mp3",
+      "bytes": 1336749,
+      "duration": 167,
+      "turns": 7
+    },
+    {
       "id": "2026-10-03-1440",
       "title": "The 1440 Daily Digest \u2014 Oct 3: College Sports Cash, Feathered Dinosaurs, and Pumpkin States",
       "description": "October third, twenty twenty six. The 1440 Daily Digest newsletter. College Sports Cash, Feathered Dinosaurs, and Pumpkin States.",
