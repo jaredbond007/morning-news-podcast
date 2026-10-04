@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-04-superhuman",
+      "title": "Superhuman \u2014 Oct 4: SpaceX just cleared a massive hurdle",
+      "description": "October fourth, twenty twenty six. The Superhuman newsletter. SpaceX just cleared a massive hurdle.",
+      "newsletter": "superhuman",
+      "published": "2026-10-04T20:48:02+00:00",
+      "audio": "audio/2026-10-04-superhuman.mp3",
+      "bytes": 1433325,
+      "duration": 179,
+      "turns": 8
+    },
+    {
       "id": "2026-10-03-superhuman",
       "title": "Superhuman \u2014 Oct 3: Your DoorDash order may arrive by drone",
       "description": "October third, twenty twenty six. The Superhuman newsletter. Your DoorDash order may arrive by drone.",
