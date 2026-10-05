@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-05-superhuman",
+      "title": "Superhuman \u2014 Oct 5: Two popular tools are now available",
+      "description": "October fifth, twenty twenty six. The Superhuman newsletter. Two popular tools are now available.",
+      "newsletter": "superhuman",
+      "published": "2026-10-05T13:41:14+00:00",
+      "audio": "audio/2026-10-05-superhuman.mp3",
+      "bytes": 1307373,
+      "duration": 163,
+      "turns": 8
+    },
+    {
       "id": "2026-10-05-rundown-ai",
       "title": "The Rundown AI \u2014 Oct 5: An OpenAI safety insider calls the culture broken",
       "description": "October fifth, twenty twenty six. The Rundown AI newsletter. An OpenAI safety insider calls the culture broken.",
