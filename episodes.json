@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-05-robotics",
+      "title": "The Rundown Robotics \u2014 Oct 5: California crashes robot fight club",
+      "description": "October fifth, twenty twenty six. The Rundown Robotics newsletter. California crashes robot fight club.",
+      "newsletter": "robotics",
+      "published": "2026-10-05T14:57:23+00:00",
+      "audio": "audio/2026-10-05-robotics.mp3",
+      "bytes": 1460397,
+      "duration": 183,
+      "turns": 5
+    },
+    {
       "id": "2026-10-05-superhuman",
       "title": "Superhuman \u2014 Oct 5: Two popular tools are now available",
       "description": "October fifth, twenty twenty six. The Superhuman newsletter. Two popular tools are now available.",
