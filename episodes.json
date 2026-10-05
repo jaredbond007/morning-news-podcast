@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-05-rundown-ai",
+      "title": "The Rundown AI \u2014 Oct 5: An OpenAI safety insider calls the culture broken",
+      "description": "October fifth, twenty twenty six. The Rundown AI newsletter. An OpenAI safety insider calls the culture broken.",
+      "newsletter": "rundown-ai",
+      "published": "2026-10-05T10:39:57+00:00",
+      "audio": "audio/2026-10-05-rundown-ai.mp3",
+      "bytes": 1470765,
+      "duration": 184,
+      "turns": 6
+    },
+    {
       "id": "2026-10-05-1440",
       "title": "The 1440 Daily Digest \u2014 Oct 5: Nobel Prize Week, Brazil Elections, and Worldwide Livestreams",
       "description": "October fifth, twenty twenty six. The 1440 Daily Digest newsletter. Nobel Prize Week, Brazil Elections, and Worldwide Livestreams.",
