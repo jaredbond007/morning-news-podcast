@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-05-1440",
+      "title": "The 1440 Daily Digest \u2014 Oct 5: Nobel Prize Week, Brazil Elections, and Worldwide Livestreams",
+      "description": "October fifth, twenty twenty six. The 1440 Daily Digest newsletter. Nobel Prize Week, Brazil Elections, and Worldwide Livestreams.",
+      "newsletter": "1440",
+      "published": "2026-10-05T08:53:45+00:00",
+      "audio": "audio/2026-10-05-1440.mp3",
+      "bytes": 2202093,
+      "duration": 275,
+      "turns": 7
+    },
+    {
       "id": "2026-10-04-superhuman",
       "title": "Superhuman \u2014 Oct 4: SpaceX just cleared a massive hurdle",
       "description": "October fourth, twenty twenty six. The Superhuman newsletter. SpaceX just cleared a massive hurdle.",
