@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-06-superhuman",
+      "title": "Superhuman \u2014 Oct 6: Nineteen year old founder takes on Big Tech",
+      "description": "October sixth, twenty twenty six. The Superhuman newsletter. Nineteen year old founder takes on Big Tech.",
+      "newsletter": "superhuman",
+      "published": "2026-10-06T13:42:00+00:00",
+      "audio": "audio/2026-10-06-superhuman.mp3",
+      "bytes": 1304493,
+      "duration": 163,
+      "turns": 8
+    },
+    {
       "id": "2026-10-06-rundown-ai",
       "title": "The Rundown AI \u2014 Oct 6: America's newest answer to China's open AI",
       "description": "October sixth, twenty twenty six. The Rundown AI newsletter. America's newest answer to China's open AI.",
