@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-06-1440",
+      "title": "The 1440 Daily Digest \u2014 Oct 6: SCOTUS Returns, Book Bans, and Bukangi the Shark",
+      "description": "October sixth, twenty twenty six. The 1440 Daily Digest newsletter. SCOTUS Returns, Book Bans, and Bukangi the Shark.",
+      "newsletter": "1440",
+      "published": "2026-10-06T08:49:08+00:00",
+      "audio": "audio/2026-10-06-1440.mp3",
+      "bytes": 2067117,
+      "duration": 258,
+      "turns": 7
+    },
+    {
       "id": "2026-10-05-robotics",
       "title": "The Rundown Robotics \u2014 Oct 5: California crashes robot fight club",
       "description": "October fifth, twenty twenty six. The Rundown Robotics newsletter. California crashes robot fight club.",
