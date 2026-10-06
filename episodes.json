@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-06-rundown-ai",
+      "title": "The Rundown AI \u2014 Oct 6: America's newest answer to China's open AI",
+      "description": "October sixth, twenty twenty six. The Rundown AI newsletter. America's newest answer to China's open AI.",
+      "newsletter": "rundown-ai",
+      "published": "2026-10-06T10:23:56+00:00",
+      "audio": "audio/2026-10-06-rundown-ai.mp3",
+      "bytes": 1544685,
+      "duration": 193,
+      "turns": 6
+    },
+    {
       "id": "2026-10-06-1440",
       "title": "The 1440 Daily Digest \u2014 Oct 6: SCOTUS Returns, Book Bans, and Bukangi the Shark",
       "description": "October sixth, twenty twenty six. The 1440 Daily Digest newsletter. SCOTUS Returns, Book Bans, and Bukangi the Shark.",
