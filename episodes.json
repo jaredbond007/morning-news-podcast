@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-07-rundown-ai",
+      "title": "The Rundown AI \u2014 Oct 7: OpenAI's math avalanche continues",
+      "description": "October seventh, twenty twenty six. The Rundown AI newsletter. OpenAI's math avalanche continues.",
+      "newsletter": "rundown-ai",
+      "published": "2026-10-07T10:31:39+00:00",
+      "audio": "audio/2026-10-07-rundown-ai.mp3",
+      "bytes": 1535469,
+      "duration": 192,
+      "turns": 6
+    },
+    {
       "id": "2026-10-07-1440",
       "title": "The 1440 Daily Digest \u2014 Oct 7: Plague Probe, French Protests, and Bathroom Scares",
       "description": "October seventh, twenty twenty six. The 1440 Daily Digest newsletter. Plague Probe, French Protests, and Bathroom Scares.",
