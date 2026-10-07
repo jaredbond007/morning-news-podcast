@@ -7,7 +7,7 @@
     <link>https://jaredbond007.github.io/morning-news-podcast/</link>
     <description>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 13:42:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 08:53:19 +0000</lastBuildDate>
     <atom:link href="https://jaredbond007.github.io/morning-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jared A. Bond</itunes:author>
     <itunes:summary>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</itunes:summary>
@@ -18,6 +18,16 @@
     <itunes:image href="https://jaredbond007.github.io/morning-news-podcast/cover.png"/>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>The 1440 Daily Digest — Oct 7: Plague Probe, French Protests, and Bathroom Scares</title>
+      <description>October seventh, twenty twenty six. The 1440 Daily Digest newsletter. Plague Probe, French Protests, and Bathroom Scares.</description>
+      <pubDate>Wed, 07 Oct 2026 08:53:19 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-10-07-1440.mp3" length="2038893" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-07-1440</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>4:15</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Superhuman — Oct 6: Nineteen year old founder takes on Big Tech</title>
       <description>October sixth, twenty twenty six. The Superhuman newsletter. Nineteen year old founder takes on Big Tech.</description>

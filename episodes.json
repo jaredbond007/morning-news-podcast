@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-07-1440",
+      "title": "The 1440 Daily Digest \u2014 Oct 7: Plague Probe, French Protests, and Bathroom Scares",
+      "description": "October seventh, twenty twenty six. The 1440 Daily Digest newsletter. Plague Probe, French Protests, and Bathroom Scares.",
+      "newsletter": "1440",
+      "published": "2026-10-07T08:53:19+00:00",
+      "audio": "audio/2026-10-07-1440.mp3",
+      "bytes": 2038893,
+      "duration": 255,
+      "turns": 7
+    },
+    {
       "id": "2026-10-06-superhuman",
       "title": "Superhuman \u2014 Oct 6: Nineteen year old founder takes on Big Tech",
       "description": "October sixth, twenty twenty six. The Superhuman newsletter. Nineteen year old founder takes on Big Tech.",
