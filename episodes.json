@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-07-superhuman",
+      "title": "Superhuman \u2014 Oct 7: Claude moves into your Google Workspace",
+      "description": "October seventh, twenty twenty six. The Superhuman newsletter. Claude moves into your Google Workspace.",
+      "newsletter": "superhuman",
+      "published": "2026-10-07T13:31:50+00:00",
+      "audio": "audio/2026-10-07-superhuman.mp3",
+      "bytes": 1165677,
+      "duration": 146,
+      "turns": 7
+    },
+    {
       "id": "2026-10-07-rundown-ai",
       "title": "The Rundown AI \u2014 Oct 7: OpenAI's math avalanche continues",
       "description": "October seventh, twenty twenty six. The Rundown AI newsletter. OpenAI's math avalanche continues.",
