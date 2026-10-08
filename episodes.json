@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-08-1440",
+      "title": "The 1440 Daily Digest \u2014 Oct 8: Assisted Dying Law, Math Advances, and the Heaviest Insect",
+      "description": "October eighth, twenty twenty six. The 1440 Daily Digest newsletter. Assisted Dying Law, Math Advances, and the Heaviest Insect.",
+      "newsletter": "1440",
+      "published": "2026-10-08T08:51:59+00:00",
+      "audio": "audio/2026-10-08-1440.mp3",
+      "bytes": 1982829,
+      "duration": 248,
+      "turns": 7
+    },
+    {
       "id": "2026-10-07-superhuman",
       "title": "Superhuman \u2014 Oct 7: Claude moves into your Google Workspace",
       "description": "October seventh, twenty twenty six. The Superhuman newsletter. Claude moves into your Google Workspace.",
