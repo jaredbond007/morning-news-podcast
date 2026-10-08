@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-08-robotics",
+      "title": "The Rundown Robotics \u2014 Oct 8: Meet Roger, the bomb squad humanoid",
+      "description": "October eighth, twenty twenty six. The Rundown Robotics newsletter. Meet Roger, the bomb squad humanoid.",
+      "newsletter": "robotics",
+      "published": "2026-10-08T14:50:22+00:00",
+      "audio": "audio/2026-10-08-robotics.mp3",
+      "bytes": 1433517,
+      "duration": 179,
+      "turns": 5
+    },
+    {
       "id": "2026-10-08-superhuman",
       "title": "Superhuman \u2014 Oct 8: ChatGPT's intelligent upgrade",
       "description": "October eighth, twenty twenty six. The Superhuman newsletter. ChatGPT's intelligent upgrade.",
