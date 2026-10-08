@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-08-rundown-ai",
+      "title": "The Rundown AI \u2014 Oct 8: AI's next frontier is the human cell",
+      "description": "October eighth, twenty twenty six. The Rundown AI newsletter. AI's next frontier is the human cell.",
+      "newsletter": "rundown-ai",
+      "published": "2026-10-08T10:34:55+00:00",
+      "audio": "audio/2026-10-08-rundown-ai.mp3",
+      "bytes": 1294509,
+      "duration": 162,
+      "turns": 6
+    },
+    {
       "id": "2026-10-08-1440",
       "title": "The 1440 Daily Digest \u2014 Oct 8: Assisted Dying Law, Math Advances, and the Heaviest Insect",
       "description": "October eighth, twenty twenty six. The 1440 Daily Digest newsletter. Assisted Dying Law, Math Advances, and the Heaviest Insect.",
