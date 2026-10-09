@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-09-1440",
+      "title": "The 1440 Daily Digest \u2014 Oct 9: Hurricane Isaias, Oldest Tortoise, and the End of Dining Out",
+      "description": "October ninth, twenty twenty six. The 1440 Daily Digest newsletter. Hurricane Isaias, Oldest Tortoise, and the End of Dining Out.",
+      "newsletter": "1440",
+      "published": "2026-10-09T08:54:11+00:00",
+      "audio": "audio/2026-10-09-1440.mp3",
+      "bytes": 2180973,
+      "duration": 273,
+      "turns": 7
+    },
+    {
       "id": "2026-10-08-robotics",
       "title": "The Rundown Robotics \u2014 Oct 8: Meet Roger, the bomb squad humanoid",
       "description": "October eighth, twenty twenty six. The Rundown Robotics newsletter. Meet Roger, the bomb squad humanoid.",
