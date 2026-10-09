@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-09-superhuman",
+      "title": "Superhuman \u2014 Oct 9: Claude gets two new tools",
+      "description": "October ninth, twenty twenty six. The Superhuman newsletter. Claude gets two new tools.",
+      "newsletter": "superhuman",
+      "published": "2026-10-09T13:30:18+00:00",
+      "audio": "audio/2026-10-09-superhuman.mp3",
+      "bytes": 1243053,
+      "duration": 155,
+      "turns": 7
+    },
+    {
       "id": "2026-10-09-rundown-ai",
       "title": "The Rundown AI \u2014 Oct 9: Fired OpenAI safety researchers hit back",
       "description": "October ninth, twenty twenty six. The Rundown AI newsletter. Fired OpenAI safety researchers hit back.",
