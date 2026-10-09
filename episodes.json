@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-09-rundown-ai",
+      "title": "The Rundown AI \u2014 Oct 9: Fired OpenAI safety researchers hit back",
+      "description": "October ninth, twenty twenty six. The Rundown AI newsletter. Fired OpenAI safety researchers hit back.",
+      "newsletter": "rundown-ai",
+      "published": "2026-10-09T10:32:44+00:00",
+      "audio": "audio/2026-10-09-rundown-ai.mp3",
+      "bytes": 1477485,
+      "duration": 185,
+      "turns": 6
+    },
+    {
       "id": "2026-10-09-1440",
       "title": "The 1440 Daily Digest \u2014 Oct 9: Hurricane Isaias, Oldest Tortoise, and the End of Dining Out",
       "description": "October ninth, twenty twenty six. The 1440 Daily Digest newsletter. Hurricane Isaias, Oldest Tortoise, and the End of Dining Out.",
