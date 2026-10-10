@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-10-superhuman",
+      "title": "Superhuman \u2014 Oct 10: Nvidia may pour one billion dollars into Figure AI",
+      "description": "October tenth, twenty twenty six. The Superhuman newsletter. Nvidia may pour one billion dollars into Figure AI.",
+      "newsletter": "superhuman",
+      "published": "2026-10-10T16:34:39+00:00",
+      "audio": "audio/2026-10-10-superhuman.mp3",
+      "bytes": 1454829,
+      "duration": 182,
+      "turns": 8
+    },
+    {
       "id": "2026-10-10-1440",
       "title": "The 1440 Daily Digest \u2014 Oct 10: Nobel Peace Prize, Wine Heist, and a Rumpelstiltskin Meme",
       "description": "October tenth, twenty twenty six. The 1440 Daily Digest newsletter. Nobel Peace Prize, Wine Heist, and a Rumpelstiltskin Meme.",
