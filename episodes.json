@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-10-1440",
+      "title": "The 1440 Daily Digest \u2014 Oct 10: Nobel Peace Prize, Wine Heist, and a Rumpelstiltskin Meme",
+      "description": "October tenth, twenty twenty six. The 1440 Daily Digest newsletter. Nobel Peace Prize, Wine Heist, and a Rumpelstiltskin Meme.",
+      "newsletter": "1440",
+      "published": "2026-10-10T08:43:25+00:00",
+      "audio": "audio/2026-10-10-1440.mp3",
+      "bytes": 1415469,
+      "duration": 177,
+      "turns": 9
+    },
+    {
       "id": "2026-10-09-superhuman",
       "title": "Superhuman \u2014 Oct 9: Claude gets two new tools",
       "description": "October ninth, twenty twenty six. The Superhuman newsletter. Claude gets two new tools.",
