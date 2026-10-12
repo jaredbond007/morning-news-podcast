@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-12-rundown-ai",
+      "title": "The Rundown AI \u2014 Oct 12: AI factory builds tiny machines from code",
+      "description": "October twelfth, twenty twenty six. The Rundown AI newsletter. AI factory builds tiny machines from code.",
+      "newsletter": "rundown-ai",
+      "published": "2026-10-12T10:59:16+00:00",
+      "audio": "audio/2026-10-12-rundown-ai.mp3",
+      "bytes": 1343661,
+      "duration": 168,
+      "turns": 6
+    },
+    {
       "id": "2026-10-12-1440",
       "title": "The 1440 Daily Digest \u2014 Oct 12: Riyadh Attacks, Russia Ukraine Energy, and the Voice of Bigfoot",
       "description": "October twelfth, twenty twenty six. The 1440 Daily Digest newsletter. Riyadh Attacks, Russia Ukraine Energy, and the Voice of Bigfoot.",

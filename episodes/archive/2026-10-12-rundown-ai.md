@@ -1,0 +1,14 @@
+DATE: 2026-10-12
+SOURCE: drive-folder
+---
+October twelfth, twenty twenty six. The Rundown AI newsletter. AI factory builds tiny machines from code.
+
+First, Atomic Machines, a California startup led by Jeff Holden, who helped create Amazon Prime and ran Uber's self driving program, just emerged from six years of stealth with two hundred fifty million dollars raised. Its AI guided factory, called the Matter Compiler, turns digital designs into tiny working machines, and Holden says that unlike a three D printer, which only changes an object's shape, it builds a whole new device when the code changes, with no retooling. Each production step is checked before a part moves on, feeding the AI new data on which materials actually work. It focuses on gadgets with moving parts too small to see without a microscope, like tiny pumps, motors and gears that chip factories cannot make, and its first product is PrimeSwitch, a fingertip sized power switch for AI server farms. For now it only builds its own products with humans in the loop, but the goal is prompt to product manufacturing that lets almost anyone with a concept turn it into a real device.
+
+In the Rundown Roundtable, staff share two setups. Rishi texts or sends voice notes to Instinct, an AI assistant in iMessage, which turns them into reminders and keeps following up until he replies done. Shubham built a credit card optimizer in ChatGPT that compares store prices and his cards' rewards to pick where to buy and which card to use.
+
+Today's AI training guide shows how to use Google's Nano Banana two point one image model to turn one product photo into a matching set of ad images in different layouts, test a short headline, and check that the product still looks right. The full guide is in the email.
+
+Then, Microsoft CEO Satya Nadella published an essay on X urging companies to guard advanced AI models like a powerful employee who could slip up or get hacked, saying firms should assume a model is compromised. He argued that engineers used to be able to trace a bug back to its code, but today's models cannot always be explained that way. He wants AI permissions and activity logs kept where the AI cannot edit them, no model grading its own work, and an emergency brake a human can use to stop a system mid task. He also wants models to show their reasoning in plain words, rejecting unreadable internal reasoning as an excuse to hide it. The Rundown sees it as a direct response to reports that OpenAI's newest techniques can hide part of an AI's reasoning from the humans monitoring it.
+
+The community AI workflow of the day comes from reader Kevin Kunstadt, who used Replit to build a web app that randomly pairs images and texts, recreating a chance based Dadaist technique he used to do by hand for photobooks. It draws on Project Gutenberg, the Library of Congress or your own archives. The full workflow is in the email.
