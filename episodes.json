@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-12-superhuman",
+      "title": "Superhuman \u2014 Oct 12: Decision models are becoming more popular",
+      "description": "October twelfth, twenty twenty six. The Superhuman newsletter. Decision models are becoming more popular.",
+      "newsletter": "superhuman",
+      "published": "2026-10-12T13:54:50+00:00",
+      "audio": "audio/2026-10-12-superhuman.mp3",
+      "bytes": 1530093,
+      "duration": 191,
+      "turns": 8
+    },
+    {
       "id": "2026-10-12-rundown-ai",
       "title": "The Rundown AI \u2014 Oct 12: AI factory builds tiny machines from code",
       "description": "October twelfth, twenty twenty six. The Rundown AI newsletter. AI factory builds tiny machines from code.",
