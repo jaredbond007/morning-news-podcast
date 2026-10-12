@@ -7,7 +7,7 @@
     <link>https://jaredbond007.github.io/morning-news-podcast/</link>
     <description>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 13:54:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 15:01:37 +0000</lastBuildDate>
     <atom:link href="https://jaredbond007.github.io/morning-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jared A. Bond</itunes:author>
     <itunes:summary>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</itunes:summary>
@@ -18,6 +18,16 @@
     <itunes:image href="https://jaredbond007.github.io/morning-news-podcast/cover.png"/>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>The Rundown Robotics — Oct 12: UCLA builds a humanoid from Android</title>
+      <description>October twelfth, twenty twenty six. The Rundown Robotics newsletter. UCLA builds a humanoid from Android.</description>
+      <pubDate>Mon, 12 Oct 2026 15:01:37 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-10-12-robotics.mp3" length="1459821" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-12-robotics</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>3:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Superhuman — Oct 12: Decision models are becoming more popular</title>
       <description>October twelfth, twenty twenty six. The Superhuman newsletter. Decision models are becoming more popular.</description>

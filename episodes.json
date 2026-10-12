@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-12-robotics",
+      "title": "The Rundown Robotics \u2014 Oct 12: UCLA builds a humanoid from Android",
+      "description": "October twelfth, twenty twenty six. The Rundown Robotics newsletter. UCLA builds a humanoid from Android.",
+      "newsletter": "robotics",
+      "published": "2026-10-12T15:01:37+00:00",
+      "audio": "audio/2026-10-12-robotics.mp3",
+      "bytes": 1459821,
+      "duration": 182,
+      "turns": 5
+    },
+    {
       "id": "2026-10-12-superhuman",
       "title": "Superhuman \u2014 Oct 12: Decision models are becoming more popular",
       "description": "October twelfth, twenty twenty six. The Superhuman newsletter. Decision models are becoming more popular.",
