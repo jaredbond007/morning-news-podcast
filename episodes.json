@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-12-1440",
+      "title": "The 1440 Daily Digest \u2014 Oct 12: Riyadh Attacks, Russia Ukraine Energy, and the Voice of Bigfoot",
+      "description": "October twelfth, twenty twenty six. The 1440 Daily Digest newsletter. Riyadh Attacks, Russia Ukraine Energy, and the Voice of Bigfoot.",
+      "newsletter": "1440",
+      "published": "2026-10-12T09:00:11+00:00",
+      "audio": "audio/2026-10-12-1440.mp3",
+      "bytes": 2058861,
+      "duration": 257,
+      "turns": 7
+    },
+    {
       "id": "2026-10-11-superhuman",
       "title": "Superhuman \u2014 Oct 11: Suspected plague case alarms experts",
       "description": "October eleventh, twenty twenty six. The Superhuman newsletter. Suspected plague case alarms experts.",
