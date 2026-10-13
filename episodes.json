@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-13-1440",
+      "title": "The 1440 Daily Digest \u2014 Oct 13: Lawmaker Home Search, Food Market Fire, and a Fishy Forecast",
+      "description": "October thirteenth, twenty twenty six. The 1440 Daily Digest newsletter. Lawmaker Home Search, Food Market Fire, and a Fishy Forecast.",
+      "newsletter": "1440",
+      "published": "2026-10-13T08:57:34+00:00",
+      "audio": "audio/2026-10-13-1440.mp3",
+      "bytes": 1885677,
+      "duration": 236,
+      "turns": 7
+    },
+    {
       "id": "2026-10-12-robotics",
       "title": "The Rundown Robotics \u2014 Oct 12: UCLA builds a humanoid from Android",
       "description": "October twelfth, twenty twenty six. The Rundown Robotics newsletter. UCLA builds a humanoid from Android.",
