@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-13-rundown-ai",
+      "title": "The Rundown AI \u2014 Oct 13: Meta's Watermelon ripens into a frontier model",
+      "description": "October thirteenth, twenty twenty six. The Rundown AI newsletter. Meta's Watermelon ripens into a frontier model.",
+      "newsletter": "rundown-ai",
+      "published": "2026-10-13T10:28:58+00:00",
+      "audio": "audio/2026-10-13-rundown-ai.mp3",
+      "bytes": 1467309,
+      "duration": 183,
+      "turns": 6
+    },
+    {
       "id": "2026-10-13-1440",
       "title": "The 1440 Daily Digest \u2014 Oct 13: Lawmaker Home Search, Food Market Fire, and a Fishy Forecast",
       "description": "October thirteenth, twenty twenty six. The 1440 Daily Digest newsletter. Lawmaker Home Search, Food Market Fire, and a Fishy Forecast.",
