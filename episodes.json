@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-14-rundown-ai",
+      "title": "The Rundown AI \u2014 Oct 14: OpenAI engineer charged with bugging execs",
+      "description": "October fourteenth, twenty twenty six. The Rundown AI newsletter. OpenAI engineer charged with bugging execs.",
+      "newsletter": "rundown-ai",
+      "published": "2026-10-14T10:31:30+00:00",
+      "audio": "audio/2026-10-14-rundown-ai.mp3",
+      "bytes": 1551405,
+      "duration": 194,
+      "turns": 6
+    },
+    {
       "id": "2026-10-14-1440",
       "title": "The 1440 Daily Digest \u2014 Oct 14: Musk Midterms Spend, AI Unicorn Fails, and a Lamb Mower",
       "description": "October fourteenth, twenty twenty six. The 1440 Daily Digest newsletter. Musk Midterms Spend, AI Unicorn Fails, and a Lamb Mower.",
