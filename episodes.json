@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-14-1440",
+      "title": "The 1440 Daily Digest \u2014 Oct 14: Musk Midterms Spend, AI Unicorn Fails, and a Lamb Mower",
+      "description": "October fourteenth, twenty twenty six. The 1440 Daily Digest newsletter. Musk Midterms Spend, AI Unicorn Fails, and a Lamb Mower.",
+      "newsletter": "1440",
+      "published": "2026-10-14T09:01:37+00:00",
+      "audio": "audio/2026-10-14-1440.mp3",
+      "bytes": 2085933,
+      "duration": 261,
+      "turns": 7
+    },
+    {
       "id": "2026-10-13-superhuman",
       "title": "Superhuman \u2014 Oct 13: Meta drops two new models, topping Fable and Astra",
       "description": "October thirteenth, twenty twenty six. The Superhuman newsletter. Meta drops two new models, topping Fable and Astra.",
