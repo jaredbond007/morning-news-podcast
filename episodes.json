@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-14-superhuman",
+      "title": "Superhuman \u2014 Oct 14: OpenAI gets bugged, Apple debuts the HomeView",
+      "description": "October fourteenth, twenty twenty six. The Superhuman newsletter. OpenAI gets bugged, Apple debuts the HomeView.",
+      "newsletter": "superhuman",
+      "published": "2026-10-14T13:52:14+00:00",
+      "audio": "audio/2026-10-14-superhuman.mp3",
+      "bytes": 1406253,
+      "duration": 176,
+      "turns": 8
+    },
+    {
       "id": "2026-10-14-rundown-ai",
       "title": "The Rundown AI \u2014 Oct 14: OpenAI engineer charged with bugging execs",
       "description": "October fourteenth, twenty twenty six. The Rundown AI newsletter. OpenAI engineer charged with bugging execs.",
