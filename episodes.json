@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-15-rundown-ai",
+      "title": "The Rundown AI \u2014 Oct 15: Researchers make first contact with a rogue AI fleet",
+      "description": "October fifteenth, twenty twenty six. The Rundown AI newsletter. Researchers make first contact with a rogue AI fleet.",
+      "newsletter": "rundown-ai",
+      "published": "2026-10-15T10:36:17+00:00",
+      "audio": "audio/2026-10-15-rundown-ai.mp3",
+      "bytes": 1332141,
+      "duration": 166,
+      "turns": 6
+    },
+    {
       "id": "2026-10-15-1440",
       "title": "The 1440 Daily Digest \u2014 Oct 15: Inflation Ticks Up, Oldest Shipwreck, and a Cat Tour",
       "description": "October fifteenth, twenty twenty six. The 1440 Daily Digest newsletter. Inflation Ticks Up, Oldest Shipwreck, and a Cat Tour.",
