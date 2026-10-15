@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-15-1440",
+      "title": "The 1440 Daily Digest \u2014 Oct 15: Inflation Ticks Up, Oldest Shipwreck, and a Cat Tour",
+      "description": "October fifteenth, twenty twenty six. The 1440 Daily Digest newsletter. Inflation Ticks Up, Oldest Shipwreck, and a Cat Tour.",
+      "newsletter": "1440",
+      "published": "2026-10-15T09:02:47+00:00",
+      "audio": "audio/2026-10-15-1440.mp3",
+      "bytes": 2154093,
+      "duration": 269,
+      "turns": 7
+    },
+    {
       "id": "2026-10-14-superhuman",
       "title": "Superhuman \u2014 Oct 14: OpenAI gets bugged, Apple debuts the HomeView",
       "description": "October fourteenth, twenty twenty six. The Superhuman newsletter. OpenAI gets bugged, Apple debuts the HomeView.",
