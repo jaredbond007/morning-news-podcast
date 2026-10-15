@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-15-robotics",
+      "title": "The Rundown Robotics \u2014 Oct 15: Inside Amazon's million robot experiment",
+      "description": "October fifteenth, twenty twenty six. The Rundown Robotics newsletter. Inside Amazon's million robot experiment.",
+      "newsletter": "robotics",
+      "published": "2026-10-15T15:12:58+00:00",
+      "audio": "audio/2026-10-15-robotics.mp3",
+      "bytes": 1518381,
+      "duration": 190,
+      "turns": 5
+    },
+    {
       "id": "2026-10-15-superhuman",
       "title": "Superhuman \u2014 Oct 15: Meet the AI startup undercutting Walmart, Amazon, and Costco",
       "description": "October fifteenth, twenty twenty six. The Superhuman newsletter. Meet the AI startup undercutting Walmart, Amazon, and Costco.",
