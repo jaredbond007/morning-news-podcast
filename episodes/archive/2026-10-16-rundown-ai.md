@@ -1,0 +1,14 @@
+DATE: 2026-10-16
+SOURCE: drive-folder
+---
+October sixteenth, twenty twenty six. The Rundown AI newsletter. Meta turns Mac into an AI supercomputer.
+
+First, Meta released Muse Spark Open, an open weight, eight hundred sixteen billion parameter multimodal model built for coding and agent work, and partnered with Apple so it can run locally on Mac Studios, a first for a model this size, Meta says. Two M five Ultra Mac Studios with a combined terabyte of memory can run it through Apple's updated MLX toolkit, and Meta says it shipped iOS app fixes and edited video in DaVinci Resolve without the cloud. On Artificial Analysis' Intelligence Index it scores thirty nine, ahead of other Western open models but behind China's GLM five point three, Kimi K three and Qwen three point eight, which also still code better. It is the third major Western open launch this month, after Reflection AI's Beam and Mistral's one trillion parameter Le Chonk. The Rundown says Meta is now playing both sides, with Wonder at the frontier and Spark Open for developers, putting an American heavyweight back in the open model race.
+
+In Rowan's Corner, Rowan describes his weekly digital factory inspection for his fully remote company. A scheduled Claude task now runs every Friday before he wakes, picking random areas of the business to review, gathering samples into a Notion report, and checking Slack to confirm last week's findings were fixed. The prompt is in the email.
+
+Today's AI training guide shows how to use ChatGPT's new Intelligent UI to turn an answer into a working workshop cost calculator, then change the headcount, test edge cases and add a budget buffer to make sure the figures hold up. The full guide is in the email.
+
+Then, Harvard researchers mapped consistent gender gaps in how Americans use, learn about and appear in coverage of AI, drawing on a survey of more than fifty four hundred adults, browsing data and seventy eight thousand news articles. Twenty nine percent of women said they had never used AI versus twenty two percent of men, though browsing data showed no real gap in trying it, only in time spent. At work, sixty four percent of employed women reported no AI training versus forty nine percent of men, and training and encouragement were linked to higher use and confidence for both. AI headlines named men fourteen point six times as often as women. The Rundown says access looks nearly equal, but the real divide shows up in training, confidence and who gets heard.
+
+The community AI workflow of the day comes from reader Tony Surfwell, who built the word puzzle Sujido using two AI agents, one that plans and reviews and one that builds, under rules he added one failure at a time. A rebuild took an AI audit grade from B minus to A minus. The full workflow is in the email.

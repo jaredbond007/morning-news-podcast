@@ -1,6 +1,28 @@
 {
   "episodes": [
     {
+      "id": "2026-10-16-rundown-ai",
+      "title": "The Rundown AI \u2014 Oct 16: Meta turns Mac into an AI supercomputer",
+      "description": "October sixteenth, twenty twenty six. The Rundown AI newsletter. Meta turns Mac into an AI supercomputer.",
+      "newsletter": "rundown-ai",
+      "published": "2026-10-16T13:26:23+00:00",
+      "audio": "audio/2026-10-16-rundown-ai.mp3",
+      "bytes": 1326765,
+      "duration": 166,
+      "turns": 6
+    },
+    {
+      "id": "2026-10-16-1440",
+      "title": "The 1440 Daily Digest \u2014 Oct 16: Ukraine Attacks Resume, Elizabeth Holmes, and Dog Week",
+      "description": "October sixteenth, twenty twenty six. The 1440 Daily Digest newsletter. Ukraine Attacks Resume, Elizabeth Holmes, and Dog Week.",
+      "newsletter": "1440",
+      "published": "2026-10-16T13:25:02+00:00",
+      "audio": "audio/2026-10-16-1440.mp3",
+      "bytes": 1996653,
+      "duration": 250,
+      "turns": 7
+    },
+    {
       "id": "2026-10-15-robotics",
       "title": "The Rundown Robotics \u2014 Oct 15: Inside Amazon's million robot experiment",
       "description": "October fifteenth, twenty twenty six. The Rundown Robotics newsletter. Inside Amazon's million robot experiment.",
