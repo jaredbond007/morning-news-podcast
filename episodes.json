@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-17-superhuman",
+      "title": "Superhuman \u2014 Oct 17: Robot helps paralyzed woman walk again",
+      "description": "October seventeenth, twenty twenty six. The Superhuman newsletter. Robot helps paralyzed woman walk again.",
+      "newsletter": "superhuman",
+      "published": "2026-10-17T17:35:37+00:00",
+      "audio": "audio/2026-10-17-superhuman.mp3",
+      "bytes": 1310637,
+      "duration": 164,
+      "turns": 7
+    },
+    {
       "id": "2026-10-17-1440",
       "title": "The 1440 Daily Digest \u2014 Oct 17: Flying Car, Oregon School Shooting, and Grown up Happy Meals",
       "description": "October seventeenth, twenty twenty six. The 1440 Daily Digest newsletter. Flying Car, Oregon School Shooting, and Grown up Happy Meals.",
