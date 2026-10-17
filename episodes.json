@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-17-1440",
+      "title": "The 1440 Daily Digest \u2014 Oct 17: Flying Car, Oregon School Shooting, and Grown up Happy Meals",
+      "description": "October seventeenth, twenty twenty six. The 1440 Daily Digest newsletter. Flying Car, Oregon School Shooting, and Grown up Happy Meals.",
+      "newsletter": "1440",
+      "published": "2026-10-17T11:57:39+00:00",
+      "audio": "audio/2026-10-17-1440.mp3",
+      "bytes": 1453101,
+      "duration": 182,
+      "turns": 11
+    },
+    {
       "id": "2026-10-16-superhuman",
       "title": "Superhuman \u2014 Oct 16: Meta's Muse is coming to Mac",
       "description": "October sixteenth, twenty twenty six. The Superhuman newsletter. Meta's Muse is coming to Mac.",
