@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-18-superhuman",
+      "title": "Superhuman \u2014 Oct 18: Hello, flying cars",
+      "description": "October eighteenth, twenty twenty six. The Superhuman newsletter. Hello, flying cars.",
+      "newsletter": "superhuman",
+      "published": "2026-10-18T18:35:47+00:00",
+      "audio": "audio/2026-10-18-superhuman.mp3",
+      "bytes": 1273005,
+      "duration": 159,
+      "turns": 8
+    },
+    {
       "id": "2026-10-17-superhuman",
       "title": "Superhuman \u2014 Oct 17: Robot helps paralyzed woman walk again",
       "description": "October seventeenth, twenty twenty six. The Superhuman newsletter. Robot helps paralyzed woman walk again.",
