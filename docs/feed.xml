@@ -7,7 +7,7 @@
     <link>https://jaredbond007.github.io/morning-news-podcast/</link>
     <description>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2026 18:35:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:19:07 +0000</lastBuildDate>
     <atom:link href="https://jaredbond007.github.io/morning-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jared A. Bond</itunes:author>
     <itunes:summary>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</itunes:summary>
@@ -18,6 +18,46 @@
     <itunes:image href="https://jaredbond007.github.io/morning-news-podcast/cover.png"/>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Superhuman — Oct 19: OpenAI moves into Google's browser</title>
+      <description>October nineteenth, twenty twenty six. The Superhuman newsletter. OpenAI moves into Google's browser.</description>
+      <pubDate>Mon, 19 Oct 2026 15:19:07 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-10-19-superhuman.mp3" length="1291629" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-19-superhuman</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>2:41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Rundown AI — Oct 19: Anthropic designs a pay package for the public</title>
+      <description>October nineteenth, twenty twenty six. The Rundown AI newsletter. Anthropic designs a pay package for the public.</description>
+      <pubDate>Mon, 19 Oct 2026 15:17:48 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-10-19-rundown-ai.mp3" length="1279725" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-19-rundown-ai</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>2:40</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Rundown Robotics — Oct 19: SoftBank's eighteen billion dollar bet on robot guards</title>
+      <description>October nineteenth, twenty twenty six. The Rundown Robotics newsletter. SoftBank's eighteen billion dollar bet on robot guards.</description>
+      <pubDate>Mon, 19 Oct 2026 15:16:31 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-10-19-robotics.mp3" length="1434669" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-19-robotics</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>2:59</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The 1440 Daily Digest — Oct 19: France Unrest, Sanctions Waived, and Best Culinary Resorts</title>
+      <description>October nineteenth, twenty twenty six. The 1440 Daily Digest newsletter. France Unrest, Sanctions Waived, and Best Culinary Resorts.</description>
+      <pubDate>Mon, 19 Oct 2026 15:15:04 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-10-19-1440.mp3" length="1908717" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-19-1440</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>3:59</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Superhuman — Oct 18: Hello, flying cars</title>
       <description>October eighteenth, twenty twenty six. The Superhuman newsletter. Hello, flying cars.</description>

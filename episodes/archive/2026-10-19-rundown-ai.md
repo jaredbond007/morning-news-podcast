@@ -1,0 +1,14 @@
+DATE: 2026-10-19
+SOURCE: drive-folder
+---
+October nineteenth, twenty twenty six. The Rundown AI newsletter. Anthropic designs a pay package for the public.
+
+First, Anthropic introduced the Anthropic Public Benefit Fund, a company owned LLC that would get five percent of the company's equity if shareholders approve, about forty eight billion dollars at its May valuation, plus more as Anthropic's value climbs. Each fifty percent jump in value past an unannounced baseline could add two percent at the board's discretion. Anthropic says the fund could back nonprofits or make direct distributions to specific populations, with no stock going to lobbying or politics, and it named AI's toll on workers as one target, building on two hundred million dollars it committed in June to study job disruption. Between the fund, the cofounders' eighty percent wealth pledge and matched staff donations, about twenty percent of Anthropic's shares are now set aside for public good. The Rundown says until money actually reaches anyone, it will be hard to separate these moves from a convenient PR play.
+
+In this week's Rundown Roundtable, community lead Brooke describes how she and her partner used Claude as a symptom tracker after getting sick abroad, organizing their symptom history, photographing their medicine cabinet, and asking what to take, what to avoid and when to seek care. The full write up is in the email.
+
+Today's AI training guide shows how to use Airtable Omni to turn a content spreadsheet into a working app that shows what needs review, who owns it and what is overdue, then add a checkbox automation that moves finished drafts into review. The full guide is in the email.
+
+Then, Anthropic published a study on how AI has changed its own workforce. Juniors fell from twenty seven percent of its technical hires to just nine percent, and about a third of its machine learning managers said AI had them hiring less. Engineers push five times the code changes they did six months ago, and by August employees' agents logged six times the hours of the people running them, though Claude agents sit idle about eighty percent of the time waiting on humans. Staff of a year or more switch departments fifty percent more often than in twenty twenty five, and Anthropic is building role by role AI risk alerts to move people to less exposed jobs. The Rundown says the findings line up with CEO Dario Amodei's warnings, and show how much of the job is now keeping up with Claude.
+
+The community AI workflow of the day comes from reader Edwin Vermeer, who built an agentic coding playbook that shipped the cube shaped four in a row game Quadrim to the app stores in about eight working days, by having the agent ask clarifying questions, then test driven development and a code review. The full workflow is in the email.
