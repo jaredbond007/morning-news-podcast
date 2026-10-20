@@ -7,7 +7,7 @@
     <link>https://jaredbond007.github.io/morning-news-podcast/</link>
     <description>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 15:19:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 13:17:19 +0000</lastBuildDate>
     <atom:link href="https://jaredbond007.github.io/morning-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jared A. Bond</itunes:author>
     <itunes:summary>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</itunes:summary>
@@ -18,6 +18,26 @@
     <itunes:image href="https://jaredbond007.github.io/morning-news-podcast/cover.png"/>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>The Rundown AI — Oct 20: Anthropic cofounder says the singularity is underway</title>
+      <description>October twentieth, twenty twenty six. The Rundown AI newsletter. Anthropic cofounder says the singularity is underway.</description>
+      <pubDate>Tue, 20 Oct 2026 13:17:19 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-10-20-rundown-ai.mp3" length="1421997" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-20-rundown-ai</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>2:58</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The 1440 Daily Digest — Oct 20: Voter Fraud Arrests, OpenAI Spy, and Leap Hours</title>
+      <description>October twentieth, twenty twenty six. The 1440 Daily Digest newsletter. Voter Fraud Arrests, OpenAI Spy, and Leap Hours.</description>
+      <pubDate>Tue, 20 Oct 2026 13:15:51 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-10-20-1440.mp3" length="2040621" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-20-1440</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>4:15</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Superhuman — Oct 19: OpenAI moves into Google's browser</title>
       <description>October nineteenth, twenty twenty six. The Superhuman newsletter. OpenAI moves into Google's browser.</description>

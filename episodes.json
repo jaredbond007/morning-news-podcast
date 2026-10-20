@@ -1,6 +1,28 @@
 {
   "episodes": [
     {
+      "id": "2026-10-20-rundown-ai",
+      "title": "The Rundown AI \u2014 Oct 20: Anthropic cofounder says the singularity is underway",
+      "description": "October twentieth, twenty twenty six. The Rundown AI newsletter. Anthropic cofounder says the singularity is underway.",
+      "newsletter": "rundown-ai",
+      "published": "2026-10-20T13:17:19+00:00",
+      "audio": "audio/2026-10-20-rundown-ai.mp3",
+      "bytes": 1421997,
+      "duration": 178,
+      "turns": 6
+    },
+    {
+      "id": "2026-10-20-1440",
+      "title": "The 1440 Daily Digest \u2014 Oct 20: Voter Fraud Arrests, OpenAI Spy, and Leap Hours",
+      "description": "October twentieth, twenty twenty six. The 1440 Daily Digest newsletter. Voter Fraud Arrests, OpenAI Spy, and Leap Hours.",
+      "newsletter": "1440",
+      "published": "2026-10-20T13:15:51+00:00",
+      "audio": "audio/2026-10-20-1440.mp3",
+      "bytes": 2040621,
+      "duration": 255,
+      "turns": 7
+    },
+    {
       "id": "2026-10-19-superhuman",
       "title": "Superhuman \u2014 Oct 19: OpenAI moves into Google's browser",
       "description": "October nineteenth, twenty twenty six. The Superhuman newsletter. OpenAI moves into Google's browser.",
