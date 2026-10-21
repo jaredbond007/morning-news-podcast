@@ -1,6 +1,28 @@
 {
   "episodes": [
     {
+      "id": "2026-10-21-rundown-ai",
+      "title": "The Rundown AI \u2014 Oct 21: Sam Altman's three endings for the AI safety race",
+      "description": "October twenty first, twenty twenty six. The Rundown AI newsletter. Sam Altman's three endings for the AI safety race.",
+      "newsletter": "rundown-ai",
+      "published": "2026-10-21T13:26:44+00:00",
+      "audio": "audio/2026-10-21-rundown-ai.mp3",
+      "bytes": 1391085,
+      "duration": 174,
+      "turns": 6
+    },
+    {
+      "id": "2026-10-21-1440",
+      "title": "The 1440 Daily Digest \u2014 Oct 21: Sudanese Market Attack, Alberta Recommits, and Regrowing a Knee",
+      "description": "October twenty first, twenty twenty six. The 1440 Daily Digest newsletter. Sudanese Market Attack, Alberta Recommits, and Regrowing a Knee.",
+      "newsletter": "1440",
+      "published": "2026-10-21T13:25:39+00:00",
+      "audio": "audio/2026-10-21-1440.mp3",
+      "bytes": 2088621,
+      "duration": 261,
+      "turns": 7
+    },
+    {
       "id": "2026-10-20-superhuman",
       "title": "Superhuman \u2014 Oct 20: Evidence mounts against OpenAI's accused spy",
       "description": "October twentieth, twenty twenty six. The Superhuman newsletter. Evidence mounts against OpenAI's accused spy.",

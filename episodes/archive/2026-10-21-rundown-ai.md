@@ -1,0 +1,14 @@
+DATE: 2026-10-21
+SOURCE: drive-folder
+---
+October twenty first, twenty twenty six. The Rundown AI newsletter. Sam Altman's three endings for the AI safety race.
+
+First, OpenAI CEO Sam Altman gave staff an internal talk last week on three possible endgames for safe AI, according to The Information. He reportedly favored the first, a global enforcer built like the International Atomic Energy Agency, which OpenAI has lobbied for since twenty twenty three. The second, called the Demis plan after DeepMind cofounder Demis Hassabis, would fold the top labs into one lab serving partner countries, similar to CERN. Altman called the third, named for AI researcher Eliezer Yudkowsky, terrible, with one lab riding self improving AI to melt everyone else's GPUs. He said picking a path is due within a year, calling it pacing two point oh, and that it must include a speed limit or stopping point for self improving AI.
+
+Next, former OpenAI chief research officer Bob McGrew came out of stealth with Arda, a startup building AI that helps factories set up assembly lines for new products far faster, launching at a one point five billion dollar valuation after a one hundred sixty million dollar Series A. McGrew says Arda does for manufacturing engineers what Claude or Cursor does for programmers, planning builds from design files. Reprogramming one automated station can cost nearly a million dollars, while Asian factories use big crews that relearn a new design in a day. First customer Anduril says basic assembly instructions now take fifteen minutes instead of ten hours. McGrew wants robots on the line next, calling the goal a fully automated Shenzhen in West Texas.
+
+Today's AI training guide shows how to set up hooks in Claude Code so it automatically formats files and runs tests after selected edits, then plant a small bug to see which test catches it. The full guide is in the email.
+
+Then, Anthropic published research in which Claude designed proteins to lock onto scorpion venom toxins, working with investment firm Citrini Research, whose five staffers had a budget of about two hundred thousand dollars. Claude ran for sixty four hours off five human messages, drawing up more than three hundred eighteen thousand candidate designs and sending two hundred eleven to outside labs, where seventeen passed binding tests. Each grabs only one toxin, and none has been tested to see if it actually stops venom, so Citrini declared its universal antivenom moonshot failed. The Rundown says the key is that people with no deep drug development experience did this, a sign of how fast scientific research is changing.
+
+The community AI workflow of the day comes from reader James Miller, who struggles with AutoCAD and instead described a custom threaded barrel nut to Claude in plain English, had it create a three D print file, and printed the part for his projects. The full workflow is in the email.
