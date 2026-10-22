@@ -1,6 +1,28 @@
 {
   "episodes": [
     {
+      "id": "2026-10-22-rundown-ai",
+      "title": "The Rundown AI \u2014 Oct 22: AI finds a security hole in seventy percent of the web",
+      "description": "October twenty second, twenty twenty six. The Rundown AI newsletter. AI finds a security hole in seventy percent of the web.",
+      "newsletter": "rundown-ai",
+      "published": "2026-10-22T13:26:50+00:00",
+      "audio": "audio/2026-10-22-rundown-ai.mp3",
+      "bytes": 1177005,
+      "duration": 147,
+      "turns": 6
+    },
+    {
+      "id": "2026-10-22-1440",
+      "title": "The 1440 Daily Digest \u2014 Oct 22: Russia Talks, Transgender Ruling, and Thanksgiving Chips",
+      "description": "October twenty second, twenty twenty six. The 1440 Daily Digest newsletter. Russia Talks, Transgender Ruling, and Thanksgiving Chips.",
+      "newsletter": "1440",
+      "published": "2026-10-22T13:25:46+00:00",
+      "audio": "audio/2026-10-22-1440.mp3",
+      "bytes": 2075565,
+      "duration": 259,
+      "turns": 7
+    },
+    {
       "id": "2026-10-21-superhuman",
       "title": "Superhuman \u2014 Oct 21: Citrini's unexpected pivot",
       "description": "October twenty first, twenty twenty six. The Superhuman newsletter. Citrini's unexpected pivot.",
