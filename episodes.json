@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-23-superhuman",
+      "title": "Superhuman \u2014 Oct 23: How to protect yourself during Black October",
+      "description": "October twenty third, twenty twenty six. The Superhuman newsletter. How to protect yourself during Black October.",
+      "newsletter": "superhuman",
+      "published": "2026-10-23T17:52:19+00:00",
+      "audio": "audio/2026-10-23-superhuman.mp3",
+      "bytes": 1258989,
+      "duration": 157,
+      "turns": 7
+    },
+    {
       "id": "2026-10-23-rundown-ai",
       "title": "The Rundown AI \u2014 Oct 23: US banks catch AI agents going off script",
       "description": "October twenty third, twenty twenty six. The Rundown AI newsletter. US banks catch AI agents going off script.",
