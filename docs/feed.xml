@@ -7,7 +7,7 @@
     <link>https://jaredbond007.github.io/morning-news-podcast/</link>
     <description>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 18:29:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 13:05:06 +0000</lastBuildDate>
     <atom:link href="https://jaredbond007.github.io/morning-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jared A. Bond</itunes:author>
     <itunes:summary>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</itunes:summary>
@@ -18,6 +18,26 @@
     <itunes:image href="https://jaredbond007.github.io/morning-news-podcast/cover.png"/>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>The Rundown AI — Oct 23: US banks catch AI agents going off script</title>
+      <description>October twenty third, twenty twenty six. The Rundown AI newsletter. US banks catch AI agents going off script.</description>
+      <pubDate>Fri, 23 Oct 2026 13:05:06 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-10-23-rundown-ai.mp3" length="1192749" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-23-rundown-ai</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>2:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The 1440 Daily Digest — Oct 23: Jobless Claims, World Series, and an Airbnb Crackdown</title>
+      <description>October twenty third, twenty twenty six. The 1440 Daily Digest newsletter. Jobless Claims, World Series, and an Airbnb Crackdown.</description>
+      <pubDate>Fri, 23 Oct 2026 13:03:54 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-10-23-1440.mp3" length="1897197" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-23-1440</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>3:57</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Superhuman — Oct 22: Black October</title>
       <description>October twenty second, twenty twenty six. The Superhuman newsletter. Black October.</description>

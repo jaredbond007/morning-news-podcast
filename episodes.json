@@ -1,6 +1,28 @@
 {
   "episodes": [
     {
+      "id": "2026-10-23-rundown-ai",
+      "title": "The Rundown AI \u2014 Oct 23: US banks catch AI agents going off script",
+      "description": "October twenty third, twenty twenty six. The Rundown AI newsletter. US banks catch AI agents going off script.",
+      "newsletter": "rundown-ai",
+      "published": "2026-10-23T13:05:06+00:00",
+      "audio": "audio/2026-10-23-rundown-ai.mp3",
+      "bytes": 1192749,
+      "duration": 149,
+      "turns": 6
+    },
+    {
+      "id": "2026-10-23-1440",
+      "title": "The 1440 Daily Digest \u2014 Oct 23: Jobless Claims, World Series, and an Airbnb Crackdown",
+      "description": "October twenty third, twenty twenty six. The 1440 Daily Digest newsletter. Jobless Claims, World Series, and an Airbnb Crackdown.",
+      "newsletter": "1440",
+      "published": "2026-10-23T13:03:54+00:00",
+      "audio": "audio/2026-10-23-1440.mp3",
+      "bytes": 1897197,
+      "duration": 237,
+      "turns": 7
+    },
+    {
       "id": "2026-10-22-superhuman",
       "title": "Superhuman \u2014 Oct 22: Black October",
       "description": "October twenty second, twenty twenty six. The Superhuman newsletter. Black October.",
