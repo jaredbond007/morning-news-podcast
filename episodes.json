@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-24-superhuman",
+      "title": "Superhuman \u2014 Oct 24: Bombshell lawsuits make a worrying accusation",
+      "description": "October twenty fourth, twenty twenty six. The Superhuman newsletter. Bombshell lawsuits make a worrying accusation.",
+      "newsletter": "superhuman",
+      "published": "2026-10-24T18:48:56+00:00",
+      "audio": "audio/2026-10-24-superhuman.mp3",
+      "bytes": 1359789,
+      "duration": 170,
+      "turns": 7
+    },
+    {
       "id": "2026-10-23-superhuman",
       "title": "Superhuman \u2014 Oct 23: How to protect yourself during Black October",
       "description": "October twenty third, twenty twenty six. The Superhuman newsletter. How to protect yourself during Black October.",
