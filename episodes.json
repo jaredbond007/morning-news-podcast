@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-10-24-1440",
+      "title": "The 1440 Daily Digest \u2014 Oct 24: Ancient Brain Virus, First Lady's Ceasefire, and Sauna Science",
+      "description": "October twenty fourth, twenty twenty six. The 1440 Daily Digest newsletter. Ancient Brain Virus, First Lady's Ceasefire, and Sauna Science.",
+      "newsletter": "1440",
+      "published": "2026-10-26T20:14:18+00:00",
+      "audio": "audio/2026-10-24-1440.mp3",
+      "bytes": 1549869,
+      "duration": 194,
+      "turns": 10
+    },
+    {
       "id": "2026-10-26-superhuman",
       "title": "Superhuman \u2014 Oct 26: Jack Dorsey's eerily realistic voice model",
       "description": "October twenty sixth, twenty twenty six. The Superhuman newsletter. Jack Dorsey's eerily realistic voice model.",
