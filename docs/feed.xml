@@ -7,7 +7,7 @@
     <link>https://jaredbond007.github.io/morning-news-podcast/</link>
     <description>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2026 18:48:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:53:27 +0000</lastBuildDate>
     <atom:link href="https://jaredbond007.github.io/morning-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jared A. Bond</itunes:author>
     <itunes:summary>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</itunes:summary>
@@ -18,6 +18,56 @@
     <itunes:image href="https://jaredbond007.github.io/morning-news-podcast/cover.png"/>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Superhuman — Oct 26: Jack Dorsey's eerily realistic voice model</title>
+      <description>October twenty sixth, twenty twenty six. The Superhuman newsletter. Jack Dorsey's eerily realistic voice model.</description>
+      <pubDate>Mon, 26 Oct 2026 14:53:27 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-10-26-superhuman.mp3" length="1215789" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-26-superhuman</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>2:32</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Rundown AI — Oct 26: China's Kimi continues to challenge the frontier</title>
+      <description>October twenty sixth, twenty twenty six. The Rundown AI newsletter. China's Kimi continues to challenge the frontier.</description>
+      <pubDate>Mon, 26 Oct 2026 14:52:13 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-10-26-rundown-ai.mp3" length="1213293" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-26-rundown-ai</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>2:32</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Rundown Robotics — Oct 26: When one hundred ten humanoids hit the dance floor</title>
+      <description>October twenty sixth, twenty twenty six. The Rundown Robotics newsletter. When one hundred ten humanoids hit the dance floor.</description>
+      <pubDate>Mon, 26 Oct 2026 14:50:59 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-10-26-robotics.mp3" length="1283565" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-26-robotics</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>2:40</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The 1440 Daily Digest — Oct 26: Brazil Election, Starlink Returns, and the Science of Smiling</title>
+      <description>October twenty sixth, twenty twenty six. The 1440 Daily Digest newsletter. Brazil Election, Starlink Returns, and the Science of Smiling.</description>
+      <pubDate>Mon, 26 Oct 2026 14:49:39 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-10-26-1440.mp3" length="1882989" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-26-1440</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>3:55</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Superhuman — Oct 25: Hair growth pill passes key trial</title>
+      <description>October twenty fifth, twenty twenty six. The Superhuman newsletter. Hair growth pill passes key trial.</description>
+      <pubDate>Mon, 26 Oct 2026 14:47:42 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-10-25-superhuman.mp3" length="1180653" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-25-superhuman</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>2:28</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Superhuman — Oct 24: Bombshell lawsuits make a worrying accusation</title>
       <description>October twenty fourth, twenty twenty six. The Superhuman newsletter. Bombshell lawsuits make a worrying accusation.</description>

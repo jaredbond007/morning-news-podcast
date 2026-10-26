@@ -1,6 +1,61 @@
 {
   "episodes": [
     {
+      "id": "2026-10-26-superhuman",
+      "title": "Superhuman \u2014 Oct 26: Jack Dorsey's eerily realistic voice model",
+      "description": "October twenty sixth, twenty twenty six. The Superhuman newsletter. Jack Dorsey's eerily realistic voice model.",
+      "newsletter": "superhuman",
+      "published": "2026-10-26T14:53:27+00:00",
+      "audio": "audio/2026-10-26-superhuman.mp3",
+      "bytes": 1215789,
+      "duration": 152,
+      "turns": 8
+    },
+    {
+      "id": "2026-10-26-rundown-ai",
+      "title": "The Rundown AI \u2014 Oct 26: China's Kimi continues to challenge the frontier",
+      "description": "October twenty sixth, twenty twenty six. The Rundown AI newsletter. China's Kimi continues to challenge the frontier.",
+      "newsletter": "rundown-ai",
+      "published": "2026-10-26T14:52:13+00:00",
+      "audio": "audio/2026-10-26-rundown-ai.mp3",
+      "bytes": 1213293,
+      "duration": 152,
+      "turns": 6
+    },
+    {
+      "id": "2026-10-26-robotics",
+      "title": "The Rundown Robotics \u2014 Oct 26: When one hundred ten humanoids hit the dance floor",
+      "description": "October twenty sixth, twenty twenty six. The Rundown Robotics newsletter. When one hundred ten humanoids hit the dance floor.",
+      "newsletter": "robotics",
+      "published": "2026-10-26T14:50:59+00:00",
+      "audio": "audio/2026-10-26-robotics.mp3",
+      "bytes": 1283565,
+      "duration": 160,
+      "turns": 5
+    },
+    {
+      "id": "2026-10-26-1440",
+      "title": "The 1440 Daily Digest \u2014 Oct 26: Brazil Election, Starlink Returns, and the Science of Smiling",
+      "description": "October twenty sixth, twenty twenty six. The 1440 Daily Digest newsletter. Brazil Election, Starlink Returns, and the Science of Smiling.",
+      "newsletter": "1440",
+      "published": "2026-10-26T14:49:39+00:00",
+      "audio": "audio/2026-10-26-1440.mp3",
+      "bytes": 1882989,
+      "duration": 235,
+      "turns": 7
+    },
+    {
+      "id": "2026-10-25-superhuman",
+      "title": "Superhuman \u2014 Oct 25: Hair growth pill passes key trial",
+      "description": "October twenty fifth, twenty twenty six. The Superhuman newsletter. Hair growth pill passes key trial.",
+      "newsletter": "superhuman",
+      "published": "2026-10-26T14:47:42+00:00",
+      "audio": "audio/2026-10-25-superhuman.mp3",
+      "bytes": 1180653,
+      "duration": 148,
+      "turns": 7
+    },
+    {
       "id": "2026-10-24-superhuman",
       "title": "Superhuman \u2014 Oct 24: Bombshell lawsuits make a worrying accusation",
       "description": "October twenty fourth, twenty twenty six. The Superhuman newsletter. Bombshell lawsuits make a worrying accusation.",
