@@ -7,7 +7,7 @@
     <link>https://jaredbond007.github.io/morning-news-podcast/</link>
     <description>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 20:14:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 14:17:31 +0000</lastBuildDate>
     <atom:link href="https://jaredbond007.github.io/morning-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jared A. Bond</itunes:author>
     <itunes:summary>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</itunes:summary>
@@ -18,6 +18,36 @@
     <itunes:image href="https://jaredbond007.github.io/morning-news-podcast/cover.png"/>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Superhuman — Oct 27: OpenAI's been in the lab</title>
+      <description>October twenty seventh, twenty twenty six. The Superhuman newsletter. OpenAI's been in the lab.</description>
+      <pubDate>Tue, 27 Oct 2026 14:17:31 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-10-27-superhuman.mp3" length="1334061" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-27-superhuman</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>2:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Rundown AI — Oct 27: The AI bubble meets Anthropic's real numbers</title>
+      <description>October twenty seventh, twenty twenty six. The Rundown AI newsletter. The AI bubble meets Anthropic's real numbers.</description>
+      <pubDate>Tue, 27 Oct 2026 14:16:10 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-10-27-rundown-ai.mp3" length="1386285" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-27-rundown-ai</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>2:53</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The 1440 Daily Digest — Oct 27: Anthropic IPO, Midterm Preview, and the Original Ghostbusters</title>
+      <description>October twenty seventh, twenty twenty six. The 1440 Daily Digest newsletter. Anthropic IPO, Midterm Preview, and the Original Ghostbusters.</description>
+      <pubDate>Tue, 27 Oct 2026 14:14:42 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-10-27-1440.mp3" length="1966317" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-27-1440</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>4:06</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>The 1440 Daily Digest — Oct 24: Ancient Brain Virus, First Lady's Ceasefire, and Sauna Science</title>
       <description>October twenty fourth, twenty twenty six. The 1440 Daily Digest newsletter. Ancient Brain Virus, First Lady's Ceasefire, and Sauna Science.</description>

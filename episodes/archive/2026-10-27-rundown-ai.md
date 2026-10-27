@@ -1,0 +1,14 @@
+DATE: 2026-10-27
+SOURCE: drive-folder
+---
+October twenty seventh, twenty twenty six. The Rundown AI newsletter. The AI bubble meets Anthropic's real numbers.
+
+First, Anthropic filed its S one for a Nasdaq listing under the ticker ANT, opening its books for the first time. Revenue hit sixteen point three billion dollars in the first half of twenty twenty six, about fourteen times a year earlier, and the June quarter alone turned a nine hundred seventy four million dollar operating profit. Anthropic has raised one hundred forty one billion dollars but still holds about one hundred thirty two billion, meaning it has spent a net of roughly nine point four billion to build a business making eleven point six billion a quarter. All seven cofounders pledged eighty percent of their stakes to charity, and Claude wrote more than ninety percent of Anthropic's code in September. The filing also warns some internal work run by Claude could grow difficult for any group of humans to understand and control.
+
+Next, OpenAI said its unreleased models made new discoveries in physics, math and computer science. They disproved the Exponential Time Hypothesis, a decades old computing assumption that hundreds of papers rely on, and the scientists who first proposed it are reviewing the claim, saying if it holds it will change an important part of theoretical computer science. OpenAI also says its models proved a thirty five year old wave conjecture and part of a one million dollar Millennium Prize problem, with Nobel laureate David Gross leading the review. OpenAI says it is not seeking academic credit and will release its raw data so anyone can check the work.
+
+Today's AI training guide shows how to use Inception's new Mercury three model to turn sales call notes into follow up emails, check its recommendations against your actual offer, and compare it with your usual model. The full guide is in the email.
+
+Then, OpenAI released GPT six point one Terra, an upgrade to its mid tier model focused on computer use, speed and efficiency, now live in ChatGPT and Codex at half the API price of the model it replaces. It finishes tasks more than three times faster than the pricier Astra and Sol while tying Astra on computer use. In OpenAI's testing it cost roughly a ninth as much per task as Claude Opus five point five, though Opus scored higher, and its hallucination rate fell from fifty three point six percent to sixteen point seven percent. The Rundown says it cuts costs for everyday work but is unlikely to dent Claude's momentum.
+
+The community AI workflow of the day comes from an anonymous reader who built Helicon, a free iPhone and iPad reader for PDFs and EPUBs with margin notes, using several Claude Code sessions that each handle one job, and turning every agent mistake into an automated check. The full workflow is in the email.

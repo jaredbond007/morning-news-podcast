@@ -1,6 +1,39 @@
 {
   "episodes": [
     {
+      "id": "2026-10-27-superhuman",
+      "title": "Superhuman \u2014 Oct 27: OpenAI's been in the lab",
+      "description": "October twenty seventh, twenty twenty six. The Superhuman newsletter. OpenAI's been in the lab.",
+      "newsletter": "superhuman",
+      "published": "2026-10-27T14:17:31+00:00",
+      "audio": "audio/2026-10-27-superhuman.mp3",
+      "bytes": 1334061,
+      "duration": 167,
+      "turns": 8
+    },
+    {
+      "id": "2026-10-27-rundown-ai",
+      "title": "The Rundown AI \u2014 Oct 27: The AI bubble meets Anthropic's real numbers",
+      "description": "October twenty seventh, twenty twenty six. The Rundown AI newsletter. The AI bubble meets Anthropic's real numbers.",
+      "newsletter": "rundown-ai",
+      "published": "2026-10-27T14:16:10+00:00",
+      "audio": "audio/2026-10-27-rundown-ai.mp3",
+      "bytes": 1386285,
+      "duration": 173,
+      "turns": 6
+    },
+    {
+      "id": "2026-10-27-1440",
+      "title": "The 1440 Daily Digest \u2014 Oct 27: Anthropic IPO, Midterm Preview, and the Original Ghostbusters",
+      "description": "October twenty seventh, twenty twenty six. The 1440 Daily Digest newsletter. Anthropic IPO, Midterm Preview, and the Original Ghostbusters.",
+      "newsletter": "1440",
+      "published": "2026-10-27T14:14:42+00:00",
+      "audio": "audio/2026-10-27-1440.mp3",
+      "bytes": 1966317,
+      "duration": 246,
+      "turns": 7
+    },
+    {
       "id": "2026-10-24-1440",
       "title": "The 1440 Daily Digest \u2014 Oct 24: Ancient Brain Virus, First Lady's Ceasefire, and Sauna Science",
       "description": "October twenty fourth, twenty twenty six. The 1440 Daily Digest newsletter. Ancient Brain Virus, First Lady's Ceasefire, and Sauna Science.",
