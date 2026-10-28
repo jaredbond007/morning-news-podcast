@@ -1,6 +1,39 @@
 {
   "episodes": [
     {
+      "id": "2026-10-28-superhuman",
+      "title": "Superhuman \u2014 Oct 28: Apple unveils new products",
+      "description": "October twenty eighth, twenty twenty six. The Superhuman newsletter. Apple unveils new products.",
+      "newsletter": "superhuman",
+      "published": "2026-10-28T14:53:23+00:00",
+      "audio": "audio/2026-10-28-superhuman.mp3",
+      "bytes": 1341549,
+      "duration": 168,
+      "turns": 8
+    },
+    {
+      "id": "2026-10-28-rundown-ai",
+      "title": "The Rundown AI \u2014 Oct 28: Google's AI worlds can now talk back",
+      "description": "October twenty eighth, twenty twenty six. The Rundown AI newsletter. Google's AI worlds can now talk back.",
+      "newsletter": "rundown-ai",
+      "published": "2026-10-28T14:52:00+00:00",
+      "audio": "audio/2026-10-28-rundown-ai.mp3",
+      "bytes": 1501869,
+      "duration": 188,
+      "turns": 6
+    },
+    {
+      "id": "2026-10-28-1440",
+      "title": "The 1440 Daily Digest \u2014 Oct 28: Israeli Elections, Tennessee Prison Break, and Bloomscrolling",
+      "description": "October twenty eighth, twenty twenty six. The 1440 Daily Digest newsletter. Israeli Elections, Tennessee Prison Break, and Bloomscrolling.",
+      "newsletter": "1440",
+      "published": "2026-10-28T14:50:27+00:00",
+      "audio": "audio/2026-10-28-1440.mp3",
+      "bytes": 2141229,
+      "duration": 268,
+      "turns": 7
+    },
+    {
       "id": "2026-10-27-superhuman",
       "title": "Superhuman \u2014 Oct 27: OpenAI's been in the lab",
       "description": "October twenty seventh, twenty twenty six. The Superhuman newsletter. OpenAI's been in the lab.",

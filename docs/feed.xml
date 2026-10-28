@@ -7,7 +7,7 @@
     <link>https://jaredbond007.github.io/morning-news-podcast/</link>
     <description>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 14:17:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 14:53:23 +0000</lastBuildDate>
     <atom:link href="https://jaredbond007.github.io/morning-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jared A. Bond</itunes:author>
     <itunes:summary>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</itunes:summary>
@@ -18,6 +18,36 @@
     <itunes:image href="https://jaredbond007.github.io/morning-news-podcast/cover.png"/>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Superhuman — Oct 28: Apple unveils new products</title>
+      <description>October twenty eighth, twenty twenty six. The Superhuman newsletter. Apple unveils new products.</description>
+      <pubDate>Wed, 28 Oct 2026 14:53:23 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-10-28-superhuman.mp3" length="1341549" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-28-superhuman</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>2:48</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Rundown AI — Oct 28: Google's AI worlds can now talk back</title>
+      <description>October twenty eighth, twenty twenty six. The Rundown AI newsletter. Google's AI worlds can now talk back.</description>
+      <pubDate>Wed, 28 Oct 2026 14:52:00 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-10-28-rundown-ai.mp3" length="1501869" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-28-rundown-ai</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>3:08</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The 1440 Daily Digest — Oct 28: Israeli Elections, Tennessee Prison Break, and Bloomscrolling</title>
+      <description>October twenty eighth, twenty twenty six. The 1440 Daily Digest newsletter. Israeli Elections, Tennessee Prison Break, and Bloomscrolling.</description>
+      <pubDate>Wed, 28 Oct 2026 14:50:27 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-10-28-1440.mp3" length="2141229" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-28-1440</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>4:28</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Superhuman — Oct 27: OpenAI's been in the lab</title>
       <description>October twenty seventh, twenty twenty six. The Superhuman newsletter. OpenAI's been in the lab.</description>
