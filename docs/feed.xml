@@ -7,7 +7,7 @@
     <link>https://jaredbond007.github.io/morning-news-podcast/</link>
     <description>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 14:53:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 14:59:39 +0000</lastBuildDate>
     <atom:link href="https://jaredbond007.github.io/morning-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jared A. Bond</itunes:author>
     <itunes:summary>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</itunes:summary>
@@ -18,6 +18,46 @@
     <itunes:image href="https://jaredbond007.github.io/morning-news-podcast/cover.png"/>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Superhuman — Oct 29: Google reclaims the frontier</title>
+      <description>October twenty ninth, twenty twenty six. The Superhuman newsletter. Google reclaims the frontier.</description>
+      <pubDate>Thu, 29 Oct 2026 14:59:39 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-10-29-superhuman.mp3" length="1251309" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-29-superhuman</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>2:36</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Rundown AI — Oct 29: Google's Gemini four Carbon tops the charts, for now</title>
+      <description>October twenty ninth, twenty twenty six. The Rundown AI newsletter. Google's Gemini four Carbon tops the charts, for now.</description>
+      <pubDate>Thu, 29 Oct 2026 14:58:43 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-10-29-rundown-ai.mp3" length="1234605" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-29-rundown-ai</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>2:34</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Rundown Robotics — Oct 29: The self driving future grabs a giant shovel</title>
+      <description>October twenty ninth, twenty twenty six. The Rundown Robotics newsletter. The self driving future grabs a giant shovel.</description>
+      <pubDate>Thu, 29 Oct 2026 14:57:48 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-10-29-robotics.mp3" length="1462701" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-29-robotics</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>3:03</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The 1440 Daily Digest — Oct 29: Madrid Crash, Milwaukee Brewers, and Worst Case Scenarios</title>
+      <description>October twenty ninth, twenty twenty six. The 1440 Daily Digest newsletter. Madrid Crash, Milwaukee Brewers, and Worst Case Scenarios.</description>
+      <pubDate>Thu, 29 Oct 2026 14:56:39 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-10-29-1440.mp3" length="2185005" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-29-1440</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>4:33</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Superhuman — Oct 28: Apple unveils new products</title>
       <description>October twenty eighth, twenty twenty six. The Superhuman newsletter. Apple unveils new products.</description>

@@ -1,6 +1,50 @@
 {
   "episodes": [
     {
+      "id": "2026-10-29-superhuman",
+      "title": "Superhuman \u2014 Oct 29: Google reclaims the frontier",
+      "description": "October twenty ninth, twenty twenty six. The Superhuman newsletter. Google reclaims the frontier.",
+      "newsletter": "superhuman",
+      "published": "2026-10-29T14:59:39+00:00",
+      "audio": "audio/2026-10-29-superhuman.mp3",
+      "bytes": 1251309,
+      "duration": 156,
+      "turns": 8
+    },
+    {
+      "id": "2026-10-29-rundown-ai",
+      "title": "The Rundown AI \u2014 Oct 29: Google's Gemini four Carbon tops the charts, for now",
+      "description": "October twenty ninth, twenty twenty six. The Rundown AI newsletter. Google's Gemini four Carbon tops the charts, for now.",
+      "newsletter": "rundown-ai",
+      "published": "2026-10-29T14:58:43+00:00",
+      "audio": "audio/2026-10-29-rundown-ai.mp3",
+      "bytes": 1234605,
+      "duration": 154,
+      "turns": 6
+    },
+    {
+      "id": "2026-10-29-robotics",
+      "title": "The Rundown Robotics \u2014 Oct 29: The self driving future grabs a giant shovel",
+      "description": "October twenty ninth, twenty twenty six. The Rundown Robotics newsletter. The self driving future grabs a giant shovel.",
+      "newsletter": "robotics",
+      "published": "2026-10-29T14:57:48+00:00",
+      "audio": "audio/2026-10-29-robotics.mp3",
+      "bytes": 1462701,
+      "duration": 183,
+      "turns": 5
+    },
+    {
+      "id": "2026-10-29-1440",
+      "title": "The 1440 Daily Digest \u2014 Oct 29: Madrid Crash, Milwaukee Brewers, and Worst Case Scenarios",
+      "description": "October twenty ninth, twenty twenty six. The 1440 Daily Digest newsletter. Madrid Crash, Milwaukee Brewers, and Worst Case Scenarios.",
+      "newsletter": "1440",
+      "published": "2026-10-29T14:56:39+00:00",
+      "audio": "audio/2026-10-29-1440.mp3",
+      "bytes": 2185005,
+      "duration": 273,
+      "turns": 7
+    },
+    {
       "id": "2026-10-28-superhuman",
       "title": "Superhuman \u2014 Oct 28: Apple unveils new products",
       "description": "October twenty eighth, twenty twenty six. The Superhuman newsletter. Apple unveils new products.",
