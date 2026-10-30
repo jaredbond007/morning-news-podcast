@@ -1,6 +1,39 @@
 {
   "episodes": [
     {
+      "id": "2026-10-30-superhuman",
+      "title": "Superhuman \u2014 Oct 30: Yesterday's star? Mice",
+      "description": "October thirtieth, twenty twenty six. The Superhuman newsletter. Yesterday's star? Mice.",
+      "newsletter": "superhuman",
+      "published": "2026-10-30T14:52:09+00:00",
+      "audio": "audio/2026-10-30-superhuman.mp3",
+      "bytes": 1230957,
+      "duration": 154,
+      "turns": 7
+    },
+    {
+      "id": "2026-10-30-rundown-ai",
+      "title": "The Rundown AI \u2014 Oct 30: Inside the spy plot around Nvidia's CEO",
+      "description": "October thirtieth, twenty twenty six. The Rundown AI newsletter. Inside the spy plot around Nvidia's CEO.",
+      "newsletter": "rundown-ai",
+      "published": "2026-10-30T14:50:45+00:00",
+      "audio": "audio/2026-10-30-rundown-ai.mp3",
+      "bytes": 1168749,
+      "duration": 146,
+      "turns": 5
+    },
+    {
+      "id": "2026-10-30-1440",
+      "title": "The 1440 Daily Digest \u2014 Oct 30: Alaska Clash, a Spy Near Nvidia, and the Best of October",
+      "description": "October thirtieth, twenty twenty six. The 1440 Daily Digest newsletter. Alaska Clash, a Spy Near Nvidia, and the Best of October.",
+      "newsletter": "1440",
+      "published": "2026-10-30T14:49:28+00:00",
+      "audio": "audio/2026-10-30-1440.mp3",
+      "bytes": 1990893,
+      "duration": 249,
+      "turns": 7
+    },
+    {
       "id": "2026-10-29-superhuman",
       "title": "Superhuman \u2014 Oct 29: Google reclaims the frontier",
       "description": "October twenty ninth, twenty twenty six. The Superhuman newsletter. Google reclaims the frontier.",
