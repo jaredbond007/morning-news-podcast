@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-01-superhuman",
+      "title": "Superhuman \u2014 Nov 1: A major new win for CRISPR gene editing",
+      "description": "November first, twenty twenty six. The Superhuman newsletter. A major new win for CRISPR gene editing.",
+      "newsletter": "superhuman",
+      "published": "2026-11-01T19:14:33+00:00",
+      "audio": "audio/2026-11-01-superhuman.mp3",
+      "bytes": 1149357,
+      "duration": 144,
+      "turns": 6
+    },
+    {
       "id": "2026-10-31-superhuman",
       "title": "Superhuman \u2014 Oct 31: Hair braiding robot goes viral on socials",
       "description": "October thirty first, twenty twenty six. The Superhuman newsletter. Hair braiding robot goes viral on socials.",
