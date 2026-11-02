@@ -7,7 +7,7 @@
     <link>https://jaredbond007.github.io/morning-news-podcast/</link>
     <description>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2026 19:14:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 15:41:04 +0000</lastBuildDate>
     <atom:link href="https://jaredbond007.github.io/morning-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jared A. Bond</itunes:author>
     <itunes:summary>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</itunes:summary>
@@ -18,6 +18,36 @@
     <itunes:image href="https://jaredbond007.github.io/morning-news-podcast/cover.png"/>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Superhuman — Nov 2: Whisper capturing glasses go viral</title>
+      <description>November second, twenty twenty six. The Superhuman newsletter. Whisper capturing glasses go viral.</description>
+      <pubDate>Mon, 02 Nov 2026 15:41:04 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-11-02-superhuman.mp3" length="1151469" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-02-superhuman</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>2:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Rundown AI — Nov 2: AI backlash heads to the polls</title>
+      <description>November second, twenty twenty six. The Rundown AI newsletter. AI backlash heads to the polls.</description>
+      <pubDate>Mon, 02 Nov 2026 15:39:33 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-11-02-rundown-ai.mp3" length="1233837" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-02-rundown-ai</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>2:34</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The 1440 Daily Digest — Nov 2: Election Eve, German Unrest, and a Halloween Hand Model</title>
+      <description>November second, twenty twenty six. The 1440 Daily Digest newsletter. Election Eve, German Unrest, and a Halloween Hand Model.</description>
+      <pubDate>Mon, 02 Nov 2026 15:37:50 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-11-02-1440.mp3" length="2008557" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-02-1440</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>4:11</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Superhuman — Nov 1: A major new win for CRISPR gene editing</title>
       <description>November first, twenty twenty six. The Superhuman newsletter. A major new win for CRISPR gene editing.</description>
