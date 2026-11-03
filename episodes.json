@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-03-rundown-ai",
+      "title": "The Rundown AI \u2014 Nov 3: MIT shows AI improving AI, no training required",
+      "description": "November third, twenty twenty six. The Rundown AI newsletter. MIT shows AI improving AI, no training required.",
+      "newsletter": "rundown-ai",
+      "published": "2026-11-03T11:26:07+00:00",
+      "audio": "audio/2026-11-03-rundown-ai.mp3",
+      "bytes": 1417389,
+      "duration": 177,
+      "turns": 6
+    },
+    {
       "id": "2026-11-03-1440",
       "title": "The 1440 Daily Digest \u2014 Nov 3: Election Day, HIV Drug, and New Holiday Movies",
       "description": "November third, twenty twenty six. The 1440 Daily Digest newsletter. Election Day, HIV Drug, and New Holiday Movies.",
