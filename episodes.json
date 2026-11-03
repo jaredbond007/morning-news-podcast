@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-03-superhuman",
+      "title": "Superhuman \u2014 Nov 3: DeepSeek gets customizable",
+      "description": "November third, twenty twenty six. The Superhuman newsletter. DeepSeek gets customizable.",
+      "newsletter": "superhuman",
+      "published": "2026-11-03T14:29:43+00:00",
+      "audio": "audio/2026-11-03-superhuman.mp3",
+      "bytes": 1230189,
+      "duration": 154,
+      "turns": 8
+    },
+    {
       "id": "2026-11-03-rundown-ai",
       "title": "The Rundown AI \u2014 Nov 3: MIT shows AI improving AI, no training required",
       "description": "November third, twenty twenty six. The Rundown AI newsletter. MIT shows AI improving AI, no training required.",
