@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-04-superhuman",
+      "title": "Superhuman \u2014 Nov 4: Netflix's AI answers, what should we watch?",
+      "description": "November fourth, twenty twenty six. The Superhuman newsletter. Netflix's AI answers, what should we watch?",
+      "newsletter": "superhuman",
+      "published": "2026-11-04T14:29:23+00:00",
+      "audio": "audio/2026-11-04-superhuman.mp3",
+      "bytes": 1236717,
+      "duration": 155,
+      "turns": 8
+    },
+    {
       "id": "2026-11-04-rundown-ai",
       "title": "The Rundown AI \u2014 Nov 4: Apple cracks the door open to Siri AI",
       "description": "November fourth, twenty twenty six. The Rundown AI newsletter. Apple cracks the door open to Siri AI.",
