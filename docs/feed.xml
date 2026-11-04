@@ -7,7 +7,7 @@
     <link>https://jaredbond007.github.io/morning-news-podcast/</link>
     <description>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 14:29:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 11:26:19 +0000</lastBuildDate>
     <atom:link href="https://jaredbond007.github.io/morning-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jared A. Bond</itunes:author>
     <itunes:summary>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</itunes:summary>
@@ -18,6 +18,16 @@
     <itunes:image href="https://jaredbond007.github.io/morning-news-podcast/cover.png"/>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>The Rundown AI — Nov 4: Apple cracks the door open to Siri AI</title>
+      <description>November fourth, twenty twenty six. The Rundown AI newsletter. Apple cracks the door open to Siri AI.</description>
+      <pubDate>Wed, 04 Nov 2026 11:26:18 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-11-04-rundown-ai.mp3" length="1433325" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-04-rundown-ai</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>2:59</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Superhuman — Nov 3: DeepSeek gets customizable</title>
       <description>November third, twenty twenty six. The Superhuman newsletter. DeepSeek gets customizable.</description>
