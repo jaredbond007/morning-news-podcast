@@ -7,7 +7,7 @@
     <link>https://jaredbond007.github.io/morning-news-podcast/</link>
     <description>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 14:29:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:46:08 +0000</lastBuildDate>
     <atom:link href="https://jaredbond007.github.io/morning-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jared A. Bond</itunes:author>
     <itunes:summary>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</itunes:summary>
@@ -18,6 +18,16 @@
     <itunes:image href="https://jaredbond007.github.io/morning-news-podcast/cover.png"/>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>The 1440 Daily Digest — Nov 5: Close Contests, Cruise Chaos, and Santa Claws</title>
+      <description>November fifth, twenty twenty six. The 1440 Daily Digest newsletter. Close Contests, Cruise Chaos, and Santa Claws.</description>
+      <pubDate>Thu, 05 Nov 2026 09:46:07 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-11-05-1440.mp3" length="2082093" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-05-1440</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>4:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Superhuman — Nov 4: Netflix's AI answers, what should we watch?</title>
       <description>November fourth, twenty twenty six. The Superhuman newsletter. Netflix's AI answers, what should we watch?</description>

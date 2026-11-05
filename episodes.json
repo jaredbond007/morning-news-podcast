@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-05-1440",
+      "title": "The 1440 Daily Digest \u2014 Nov 5: Close Contests, Cruise Chaos, and Santa Claws",
+      "description": "November fifth, twenty twenty six. The 1440 Daily Digest newsletter. Close Contests, Cruise Chaos, and Santa Claws.",
+      "newsletter": "1440",
+      "published": "2026-11-05T09:46:07+00:00",
+      "audio": "audio/2026-11-05-1440.mp3",
+      "bytes": 2082093,
+      "duration": 260,
+      "turns": 7
+    },
+    {
       "id": "2026-11-04-superhuman",
       "title": "Superhuman \u2014 Nov 4: Netflix's AI answers, what should we watch?",
       "description": "November fourth, twenty twenty six. The Superhuman newsletter. Netflix's AI answers, what should we watch?",
