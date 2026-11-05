@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-05-robotics",
+      "title": "The Rundown Robotics \u2014 Nov 5: Agility's two point five billion dollar humanoid hits Nasdaq",
+      "description": "November fifth, twenty twenty six. The Rundown Robotics newsletter. Agility's two point five billion dollar humanoid hits Nasdaq.",
+      "newsletter": "robotics",
+      "published": "2026-11-05T15:44:25+00:00",
+      "audio": "audio/2026-11-05-robotics.mp3",
+      "bytes": 1460397,
+      "duration": 183,
+      "turns": 5
+    },
+    {
       "id": "2026-11-05-superhuman",
       "title": "Superhuman \u2014 Nov 5: ChatGPT gets GIF abilities",
       "description": "November fifth, twenty twenty six. The Superhuman newsletter. ChatGPT gets GIF abilities.",
