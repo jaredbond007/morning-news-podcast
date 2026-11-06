@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-06-superhuman",
+      "title": "Superhuman \u2014 Nov 6: Claude gets personal finance skills",
+      "description": "November sixth, twenty twenty six. The Superhuman newsletter. Claude gets personal finance skills.",
+      "newsletter": "superhuman",
+      "published": "2026-11-06T14:29:36+00:00",
+      "audio": "audio/2026-11-06-superhuman.mp3",
+      "bytes": 1090221,
+      "duration": 136,
+      "turns": 7
+    },
+    {
       "id": "2026-11-06-rundown-ai",
       "title": "The Rundown AI \u2014 Nov 6: An inside look at Anthropic's AI speedup",
       "description": "November sixth, twenty twenty six. The Rundown AI newsletter. An inside look at Anthropic's AI speedup.",
