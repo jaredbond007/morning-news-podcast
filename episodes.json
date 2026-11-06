@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-06-1440",
+      "title": "The 1440 Daily Digest \u2014 Nov 6: European Flights, California Death Row, and a Shower Bear",
+      "description": "November sixth, twenty twenty six. The 1440 Daily Digest newsletter. European Flights, California Death Row, and a Shower Bear.",
+      "newsletter": "1440",
+      "published": "2026-11-06T09:44:41+00:00",
+      "audio": "audio/2026-11-06-1440.mp3",
+      "bytes": 2203629,
+      "duration": 275,
+      "turns": 7
+    },
+    {
       "id": "2026-11-05-robotics",
       "title": "The Rundown Robotics \u2014 Nov 5: Agility's two point five billion dollar humanoid hits Nasdaq",
       "description": "November fifth, twenty twenty six. The Rundown Robotics newsletter. Agility's two point five billion dollar humanoid hits Nasdaq.",
