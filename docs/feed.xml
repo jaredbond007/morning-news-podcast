@@ -7,7 +7,7 @@
     <link>https://jaredbond007.github.io/morning-news-podcast/</link>
     <description>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 09:44:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 11:24:39 +0000</lastBuildDate>
     <atom:link href="https://jaredbond007.github.io/morning-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jared A. Bond</itunes:author>
     <itunes:summary>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</itunes:summary>
@@ -18,6 +18,16 @@
     <itunes:image href="https://jaredbond007.github.io/morning-news-podcast/cover.png"/>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>The Rundown AI — Nov 6: An inside look at Anthropic's AI speedup</title>
+      <description>November sixth, twenty twenty six. The Rundown AI newsletter. An inside look at Anthropic's AI speedup.</description>
+      <pubDate>Fri, 06 Nov 2026 11:24:39 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-11-06-rundown-ai.mp3" length="1295085" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-06-rundown-ai</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>2:42</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>The 1440 Daily Digest — Nov 6: European Flights, California Death Row, and a Shower Bear</title>
       <description>November sixth, twenty twenty six. The 1440 Daily Digest newsletter. European Flights, California Death Row, and a Shower Bear.</description>

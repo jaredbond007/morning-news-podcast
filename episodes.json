@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-06-rundown-ai",
+      "title": "The Rundown AI \u2014 Nov 6: An inside look at Anthropic's AI speedup",
+      "description": "November sixth, twenty twenty six. The Rundown AI newsletter. An inside look at Anthropic's AI speedup.",
+      "newsletter": "rundown-ai",
+      "published": "2026-11-06T11:24:39+00:00",
+      "audio": "audio/2026-11-06-rundown-ai.mp3",
+      "bytes": 1295085,
+      "duration": 162,
+      "turns": 6
+    },
+    {
       "id": "2026-11-06-1440",
       "title": "The 1440 Daily Digest \u2014 Nov 6: European Flights, California Death Row, and a Shower Bear",
       "description": "November sixth, twenty twenty six. The 1440 Daily Digest newsletter. European Flights, California Death Row, and a Shower Bear.",
