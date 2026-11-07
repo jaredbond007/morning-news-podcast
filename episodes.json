@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-07-1440",
+      "title": "The 1440 Daily Digest \u2014 Nov 7: Aquatic Contortionist, Cult Sentencing, and Royal Surnames",
+      "description": "November seventh, twenty twenty six. The 1440 Daily Digest newsletter. Aquatic Contortionist, Cult Sentencing, and Royal Surnames.",
+      "newsletter": "1440",
+      "published": "2026-11-07T09:45:24+00:00",
+      "audio": "audio/2026-11-07-1440.mp3",
+      "bytes": 1519341,
+      "duration": 190,
+      "turns": 9
+    },
+    {
       "id": "2026-11-06-superhuman",
       "title": "Superhuman \u2014 Nov 6: Claude gets personal finance skills",
       "description": "November sixth, twenty twenty six. The Superhuman newsletter. Claude gets personal finance skills.",
