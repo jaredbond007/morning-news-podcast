@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-09-robotics",
+      "title": "The Rundown Robotics \u2014 Nov 9: Amazon builds its home robot team",
+      "description": "November ninth, twenty twenty six. The Rundown Robotics newsletter. Amazon builds its home robot team.",
+      "newsletter": "robotics",
+      "published": "2026-11-09T15:44:51+00:00",
+      "audio": "audio/2026-11-09-robotics.mp3",
+      "bytes": 1391661,
+      "duration": 174,
+      "turns": 5
+    },
+    {
       "id": "2026-11-09-superhuman",
       "title": "Superhuman \u2014 Nov 9: Nvidia CEO faces investigation",
       "description": "November ninth, twenty twenty six. The Superhuman newsletter. Nvidia CEO faces investigation.",
