@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-09-superhuman",
+      "title": "Superhuman \u2014 Nov 9: Nvidia CEO faces investigation",
+      "description": "November ninth, twenty twenty six. The Superhuman newsletter. Nvidia CEO faces investigation.",
+      "newsletter": "superhuman",
+      "published": "2026-11-09T14:49:28+00:00",
+      "audio": "audio/2026-11-09-superhuman.mp3",
+      "bytes": 1316205,
+      "duration": 164,
+      "turns": 8
+    },
+    {
       "id": "2026-11-09-rundown-ai",
       "title": "The Rundown AI \u2014 Nov 9: Jensen Huang admits affair amid spy claims",
       "description": "November ninth, twenty twenty six. The Rundown AI newsletter. Jensen Huang admits affair amid spy claims.",
