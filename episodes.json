@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-09-1440",
+      "title": "The 1440 Daily Digest \u2014 Nov 9: Russia Ukraine Talks, Krakow Shooting, and a TSA Spider",
+      "description": "November ninth, twenty twenty six. The 1440 Daily Digest newsletter. Russia Ukraine Talks, Krakow Shooting, and a TSA Spider.",
+      "newsletter": "1440",
+      "published": "2026-11-09T09:44:38+00:00",
+      "audio": "audio/2026-11-09-1440.mp3",
+      "bytes": 1923309,
+      "duration": 240,
+      "turns": 7
+    },
+    {
       "id": "2026-11-08-superhuman",
       "title": "Superhuman \u2014 Nov 8: Scientists report traces of dinosaur blood",
       "description": "November eighth, twenty twenty six. The Superhuman newsletter. Scientists report traces of dinosaur blood.",
