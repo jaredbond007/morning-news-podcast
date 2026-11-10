@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-10-superhuman",
+      "title": "Superhuman \u2014 Nov 10: Fable five point two is here",
+      "description": "November tenth, twenty twenty six. The Superhuman newsletter. Fable five point two is here.",
+      "newsletter": "superhuman",
+      "published": "2026-11-10T14:38:19+00:00",
+      "audio": "audio/2026-11-10-superhuman.mp3",
+      "bytes": 1278765,
+      "duration": 160,
+      "turns": 7
+    },
+    {
       "id": "2026-11-10-rundown-ai",
       "title": "The Rundown AI \u2014 Nov 10: Anthropic says pacing, not pausing, with Fable five point two",
       "description": "November tenth, twenty twenty six. The Rundown AI newsletter. Anthropic says pacing, not pausing, with Fable five point two.",
