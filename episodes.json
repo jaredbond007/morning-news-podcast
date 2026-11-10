@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-10-1440",
+      "title": "The 1440 Daily Digest \u2014 Nov 10: Congress Resumes, Schools Close, and Elizabeth Holmes Clones",
+      "description": "November tenth, twenty twenty six. The 1440 Daily Digest newsletter. Congress Resumes, Schools Close, and Elizabeth Holmes Clones.",
+      "newsletter": "1440",
+      "published": "2026-11-10T09:50:29+00:00",
+      "audio": "audio/2026-11-10-1440.mp3",
+      "bytes": 2063469,
+      "duration": 258,
+      "turns": 7
+    },
+    {
       "id": "2026-11-09-robotics",
       "title": "The Rundown Robotics \u2014 Nov 9: Amazon builds its home robot team",
       "description": "November ninth, twenty twenty six. The Rundown Robotics newsletter. Amazon builds its home robot team.",
