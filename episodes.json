@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-10-rundown-ai",
+      "title": "The Rundown AI \u2014 Nov 10: Anthropic says pacing, not pausing, with Fable five point two",
+      "description": "November tenth, twenty twenty six. The Rundown AI newsletter. Anthropic says pacing, not pausing, with Fable five point two.",
+      "newsletter": "rundown-ai",
+      "published": "2026-11-10T11:23:47+00:00",
+      "audio": "audio/2026-11-10-rundown-ai.mp3",
+      "bytes": 1455405,
+      "duration": 182,
+      "turns": 6
+    },
+    {
       "id": "2026-11-10-1440",
       "title": "The 1440 Daily Digest \u2014 Nov 10: Congress Resumes, Schools Close, and Elizabeth Holmes Clones",
       "description": "November tenth, twenty twenty six. The 1440 Daily Digest newsletter. Congress Resumes, Schools Close, and Elizabeth Holmes Clones.",
