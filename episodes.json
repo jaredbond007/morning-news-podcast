@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-11-rundown-ai",
+      "title": "The Rundown AI \u2014 Nov 11: ChatGPT is now open for business",
+      "description": "November eleventh, twenty twenty six. The Rundown AI newsletter. ChatGPT is now open for business.",
+      "newsletter": "rundown-ai",
+      "published": "2026-11-11T11:29:53+00:00",
+      "audio": "audio/2026-11-11-rundown-ai.mp3",
+      "bytes": 1406637,
+      "duration": 176,
+      "turns": 6
+    },
+    {
       "id": "2026-11-11-1440",
       "title": "The 1440 Daily Digest \u2014 Nov 11: Hegseth Vote, Nvidia Spy Suit, and Veterans Day",
       "description": "November eleventh, twenty twenty six. The 1440 Daily Digest newsletter. Hegseth Vote, Nvidia Spy Suit, and Veterans Day.",

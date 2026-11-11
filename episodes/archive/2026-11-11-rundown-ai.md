@@ -1,0 +1,14 @@
+DATE: 2026-11-11
+SOURCE: drive-folder
+---
+November eleventh, twenty twenty six. The Rundown AI newsletter. ChatGPT is now open for business.
+
+First, OpenAI introduced Businesses in ChatGPT, a beta hub where brands can claim a verified profile, track how often the chatbot mentions them, and set up AI agents for shoppers. Profiles are free to claim for eligible companies, and agents are live first for US online retailers and digital service firms. Brands write their agent's instructions and add product details, and shoppers open it from the profile in a labeled chat separate from ChatGPT's own answers. A dashboard shows how often ChatGPT mentions a brand and sends clicks to its site, and brands can now pay to make their agent the landing spot for labeled ads in ChatGPT. The Rundown says brands that once fought for Google rankings now want to be named by AI assistants, and OpenAI just gave them that visibility directly.
+
+Next, Anthropic rolled out Claude Sheets and Whiteboards in beta, spreadsheets and shared boards Claude builds alongside a team. Sheets can build a working spreadsheet with formulas from a prompt and export it to Excel, while Whiteboards maps a plan onto a shared board the team can edit. Claude Data, which turns company metrics into narrated videos and visual data stories, is now generally available, and Anthropic announced Claude Meetings, an assistant that sits in on video calls, with a Google Meet beta coming to Team and Enterprise users. Upgraded connectors now also open tools like Adobe and Atlassian fully inside Claude.
+
+Today's AI training guide shows how to use ChatGPT's updated Chrome extension to compare your open tabs, check facts against the pages, and group the tabs you need, using Chat to read and Work for browser actions you approve. The full guide is in the email.
+
+Then, the AI Futures Project, the forecasting group behind AI twenty twenty seven, moved up its forecast for AI that matches the best human AI researchers, citing METR's recent review of Anthropic's AI speedup as the main reason. After its twenty twenty five paper, most of the authors had pushed their dates into the twenty thirties. METR estimated Anthropic now improves about twice as fast, mostly thanks to AI, a pace the forecasters' models gave under four percent odds of seeing this early. Former OpenAI researcher Daniel Kokotajlo now gives even odds by May twenty twenty seven, with the other five forecasters landing between August and November. Kokotajlo wrote that he is scared, sad and angry, and the group says a pause should be the industry's top priority if its forecast holds.
+
+The community AI workflow of the day comes from reader Polly Bouker, who used Claude to build a web app for the daily records required for her disabled son's state funded caregiving. Caregivers check off tasks, the app writes the daily summary and goal tracking, and her son sees his progress toward a reward. The full workflow is in the email.
