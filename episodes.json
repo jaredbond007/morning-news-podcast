@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-11-1440",
+      "title": "The 1440 Daily Digest \u2014 Nov 11: Hegseth Vote, Nvidia Spy Suit, and Veterans Day",
+      "description": "November eleventh, twenty twenty six. The 1440 Daily Digest newsletter. Hegseth Vote, Nvidia Spy Suit, and Veterans Day.",
+      "newsletter": "1440",
+      "published": "2026-11-11T09:45:37+00:00",
+      "audio": "audio/2026-11-11-1440.mp3",
+      "bytes": 2077293,
+      "duration": 260,
+      "turns": 7
+    },
+    {
       "id": "2026-11-10-superhuman",
       "title": "Superhuman \u2014 Nov 10: Fable five point two is here",
       "description": "November tenth, twenty twenty six. The Superhuman newsletter. Fable five point two is here.",
