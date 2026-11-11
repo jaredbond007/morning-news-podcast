@@ -7,7 +7,7 @@
     <link>https://jaredbond007.github.io/morning-news-podcast/</link>
     <description>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 11:29:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 22:23:27 +0000</lastBuildDate>
     <atom:link href="https://jaredbond007.github.io/morning-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jared A. Bond</itunes:author>
     <itunes:summary>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</itunes:summary>
@@ -18,6 +18,16 @@
     <itunes:image href="https://jaredbond007.github.io/morning-news-podcast/cover.png"/>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Superhuman — Nov 11: Claude gets three new tools</title>
+      <description>November eleventh, twenty twenty six. The Superhuman newsletter. Claude gets three new tools.</description>
+      <pubDate>Wed, 11 Nov 2026 22:23:27 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-11-11-superhuman.mp3" length="1233452" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-11-superhuman</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>2:34</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>The Rundown AI — Nov 11: ChatGPT is now open for business</title>
       <description>November eleventh, twenty twenty six. The Rundown AI newsletter. ChatGPT is now open for business.</description>
