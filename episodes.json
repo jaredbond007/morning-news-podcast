@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-12-robotics",
+      "title": "The Rundown Robotics \u2014 Nov 12: Amazon turns Ring cameras into robots",
+      "description": "November twelfth, twenty twenty six. The Rundown Robotics newsletter. Amazon turns Ring cameras into robots.",
+      "newsletter": "robotics",
+      "published": "2026-11-12T15:45:09+00:00",
+      "audio": "audio/2026-11-12-robotics.mp3",
+      "bytes": 1511660,
+      "duration": 189,
+      "turns": 5
+    },
+    {
       "id": "2026-11-12-superhuman",
       "title": "Superhuman \u2014 Nov 12: Things get worse for Jensen Huang",
       "description": "November twelfth, twenty twenty six. The Superhuman newsletter. Things get worse for Jensen Huang.",
