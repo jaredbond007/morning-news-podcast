@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-12-rundown-ai",
+      "title": "The Rundown AI \u2014 Nov 12: AI's biggest CEO may be on his way out",
+      "description": "November twelfth, twenty twenty six. The Rundown AI newsletter. AI's biggest CEO may be on his way out.",
+      "newsletter": "rundown-ai",
+      "published": "2026-11-12T11:24:35+00:00",
+      "audio": "audio/2026-11-12-rundown-ai.mp3",
+      "bytes": 1386476,
+      "duration": 173,
+      "turns": 6
+    },
+    {
       "id": "2026-11-12-1440",
       "title": "The 1440 Daily Digest \u2014 Nov 12: Mississippi Race, Prisoner Exchange, and Parade Balloons",
       "description": "November twelfth, twenty twenty six. The 1440 Daily Digest newsletter. Mississippi Race, Prisoner Exchange, and Parade Balloons.",
