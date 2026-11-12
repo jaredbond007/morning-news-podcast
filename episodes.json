@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-12-1440",
+      "title": "The 1440 Daily Digest \u2014 Nov 12: Mississippi Race, Prisoner Exchange, and Parade Balloons",
+      "description": "November twelfth, twenty twenty six. The 1440 Daily Digest newsletter. Mississippi Race, Prisoner Exchange, and Parade Balloons.",
+      "newsletter": "1440",
+      "published": "2026-11-12T09:45:41+00:00",
+      "audio": "audio/2026-11-12-1440.mp3",
+      "bytes": 2061164,
+      "duration": 258,
+      "turns": 7
+    },
+    {
       "id": "2026-11-11-superhuman",
       "title": "Superhuman \u2014 Nov 11: Claude gets three new tools",
       "description": "November eleventh, twenty twenty six. The Superhuman newsletter. Claude gets three new tools.",
