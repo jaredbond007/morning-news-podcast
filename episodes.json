@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-13-superhuman",
+      "title": "Superhuman \u2014 Nov 13: Anthropic launches Claude Meetings days before IPO",
+      "description": "November thirteenth, twenty twenty six. The Superhuman newsletter. Anthropic launches Claude Meetings days before IPO.",
+      "newsletter": "superhuman",
+      "published": "2026-11-13T16:09:37+00:00",
+      "audio": "audio/2026-11-13-superhuman.mp3",
+      "bytes": 1251884,
+      "duration": 156,
+      "turns": 7
+    },
+    {
       "id": "2026-11-13-rundown-ai",
       "title": "The Rundown AI \u2014 Nov 13: Nvidia enters life without Jensen Huang",
       "description": "November thirteenth, twenty twenty six. The Rundown AI newsletter. Nvidia enters life without Jensen Huang.",
