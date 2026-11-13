@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-13-rundown-ai",
+      "title": "The Rundown AI \u2014 Nov 13: Nvidia enters life without Jensen Huang",
+      "description": "November thirteenth, twenty twenty six. The Rundown AI newsletter. Nvidia enters life without Jensen Huang.",
+      "newsletter": "rundown-ai",
+      "published": "2026-11-13T11:24:50+00:00",
+      "audio": "audio/2026-11-13-rundown-ai.mp3",
+      "bytes": 1492844,
+      "duration": 187,
+      "turns": 6
+    },
+    {
       "id": "2026-11-13-1440",
       "title": "The 1440 Daily Digest \u2014 Nov 13: Nvidia Shakeup, NYC Building Collapse, and Friday the Thirteenth",
       "description": "November thirteenth, twenty twenty six. The 1440 Daily Digest newsletter. Nvidia Shakeup, NYC Building Collapse, and Friday the Thirteenth.",
