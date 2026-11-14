@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-14-superhuman",
+      "title": "Superhuman \u2014 Nov 14: Agility's two point five billion dollar humanoid hits Nasdaq",
+      "description": "November fourteenth, twenty twenty six. The Superhuman newsletter. Agility's two point five billion dollar humanoid hits Nasdaq.",
+      "newsletter": "superhuman",
+      "published": "2026-11-14T17:24:07+00:00",
+      "audio": "audio/2026-11-14-superhuman.mp3",
+      "bytes": 1399148,
+      "duration": 175,
+      "turns": 7
+    },
+    {
       "id": "2026-11-14-1440",
       "title": "The 1440 Daily Digest \u2014 Nov 14: Brain Atlas, Cruise Ship Collision, and the Safest Cities",
       "description": "November fourteenth, twenty twenty six. The 1440 Daily Digest newsletter. Brain Atlas, Cruise Ship Collision, and the Safest Cities.",
