@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-15-superhuman",
+      "title": "Superhuman \u2014 Nov 15: A deadly fungus may be spreading undetected",
+      "description": "November fifteenth, twenty twenty six. The Superhuman newsletter. A deadly fungus may be spreading undetected.",
+      "newsletter": "superhuman",
+      "published": "2026-11-15T17:28:49+00:00",
+      "audio": "audio/2026-11-15-superhuman.mp3",
+      "bytes": 1332332,
+      "duration": 166,
+      "turns": 8
+    },
+    {
       "id": "2026-11-14-superhuman",
       "title": "Superhuman \u2014 Nov 14: Agility's two point five billion dollar humanoid hits Nasdaq",
       "description": "November fourteenth, twenty twenty six. The Superhuman newsletter. Agility's two point five billion dollar humanoid hits Nasdaq.",
