@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-16-superhuman",
+      "title": "Superhuman \u2014 Nov 16: More than one hundred sixty thousand people back Jensen Huang",
+      "description": "November sixteenth, twenty twenty six. The Superhuman newsletter. More than one hundred sixty thousand people back Jensen Huang.",
+      "newsletter": "superhuman",
+      "published": "2026-11-16T14:29:11+00:00",
+      "audio": "audio/2026-11-16-superhuman.mp3",
+      "bytes": 1239404,
+      "duration": 155,
+      "turns": 8
+    },
+    {
       "id": "2026-11-16-rundown-ai",
       "title": "The Rundown AI \u2014 Nov 16: Jensen Huang weighs a comeback at Nvidia",
       "description": "November sixteenth, twenty twenty six. The Rundown AI newsletter. Jensen Huang weighs a comeback at Nvidia.",
