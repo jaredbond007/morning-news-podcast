@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-16-robotics",
+      "title": "The Rundown Robotics \u2014 Nov 16: Tesla's Cybercab can now be yours, sort of",
+      "description": "November sixteenth, twenty twenty six. The Rundown Robotics newsletter. Tesla's Cybercab can now be yours, sort of.",
+      "newsletter": "robotics",
+      "published": "2026-11-16T15:44:04+00:00",
+      "audio": "audio/2026-11-16-robotics.mp3",
+      "bytes": 1455788,
+      "duration": 182,
+      "turns": 5
+    },
+    {
       "id": "2026-11-16-superhuman",
       "title": "Superhuman \u2014 Nov 16: More than one hundred sixty thousand people back Jensen Huang",
       "description": "November sixteenth, twenty twenty six. The Superhuman newsletter. More than one hundred sixty thousand people back Jensen Huang.",
