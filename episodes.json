@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-16-1440",
+      "title": "The 1440 Daily Digest \u2014 Nov 16: Air Travel, Starship Milestone, and a Horse Commuter",
+      "description": "November sixteenth, twenty twenty six. The 1440 Daily Digest newsletter. Air Travel, Starship Milestone, and a Horse Commuter.",
+      "newsletter": "1440",
+      "published": "2026-11-16T09:45:10+00:00",
+      "audio": "audio/2026-11-16-1440.mp3",
+      "bytes": 2024300,
+      "duration": 253,
+      "turns": 7
+    },
+    {
       "id": "2026-11-15-superhuman",
       "title": "Superhuman \u2014 Nov 15: A deadly fungus may be spreading undetected",
       "description": "November fifteenth, twenty twenty six. The Superhuman newsletter. A deadly fungus may be spreading undetected.",
