@@ -1,0 +1,14 @@
+DATE: 2026-11-16
+SOURCE: drive-folder
+---
+November sixteenth, twenty twenty six. The Rundown AI newsletter. Jensen Huang weighs a comeback at Nvidia.
+
+First, Elon Musk, Nvidia employees and top investors are pushing Nvidia's board to reconsider Jensen Huang's exit, and an online petition to reinstate him has passed one hundred forty thousand signatures days after he resigned amid multiple reported affairs. The petition argues he was removed before any proof of spying surfaced or an outside probe finished, and more than seven thousand signers say they are Nvidia staff. Musk signed it, arguing Nvidia's supply deals are exposed without Huang because many were a handshake with Jensen, not a contract. The board has not responded publicly and is still picking a search firm, while reports say Huang has been taking part in choosing his successor. The Financial Times also reported that Huang is privately weighing a return, with an ally building a war room of tech executives to lobby for it. The Rundown compares it to Sam Altman's return to OpenAI in twenty twenty three, though Huang's saga has spilled into geopolitics, Congress and the FBI.
+
+In the Rundown Roundtable, two staffers share their setups. Editor in chief Zach connects Claude to the Beehiiv newsletter platform and runs a weekly scheduled stats report, then asks follow up questions in the same chat. Community lead Brooke connects Claude to the support inbox, Slack and scheduled tasks, so each week it groups member questions by theme and drafts a short post for each team. The details are in the email.
+
+Today's AI training guide shows how to use Claude Whiteboards to turn a messy plan you talk through or paste in into a board your team can edit, then check what Claude laid out, fix it and share it. The full guide is in the email.
+
+Then, OpenAI moved its robotics team into its main research and product groups, according to Fortune, saying general models like GPT six Astra can run robots directly without a separate specialized brain. OpenAI shut down its robotics division in twenty twenty, rebooted it in twenty twenty four, and Sam Altman has said the company is pursuing its own humanoid. Staffers quickly pushed back, with engineer David Schnurr calling OpenAI robotics alive and well and pointing to fifteen open roles, and another staffer calling the report completely wrong. The Rundown reads it less as OpenAI giving up on robotics and more as general models doing more than expected, making the robot's brain a bigger research need than the hardware.
+
+The community AI workflow of the day comes from reader Nav, a parent of two boys preparing for exams with several tutors. Nav records sessions, transcribes them with Otter, and has ChatGPT summarize each lesson, flag weak spots, pull out homework and track whether learning gaps improve, with a Friday progress check. The full workflow is in the email.

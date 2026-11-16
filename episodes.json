@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-16-rundown-ai",
+      "title": "The Rundown AI \u2014 Nov 16: Jensen Huang weighs a comeback at Nvidia",
+      "description": "November sixteenth, twenty twenty six. The Rundown AI newsletter. Jensen Huang weighs a comeback at Nvidia.",
+      "newsletter": "rundown-ai",
+      "published": "2026-11-16T11:24:07+00:00",
+      "audio": "audio/2026-11-16-rundown-ai.mp3",
+      "bytes": 1336172,
+      "duration": 167,
+      "turns": 6
+    },
+    {
       "id": "2026-11-16-1440",
       "title": "The 1440 Daily Digest \u2014 Nov 16: Air Travel, Starship Milestone, and a Horse Commuter",
       "description": "November sixteenth, twenty twenty six. The 1440 Daily Digest newsletter. Air Travel, Starship Milestone, and a Horse Commuter.",
