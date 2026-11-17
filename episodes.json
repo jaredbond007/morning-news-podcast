@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-17-rundown-ai",
+      "title": "The Rundown AI \u2014 Nov 17: California takes OpenAI to court",
+      "description": "November seventeenth, twenty twenty six. The Rundown AI newsletter. California takes OpenAI to court.",
+      "newsletter": "rundown-ai",
+      "published": "2026-11-17T11:25:00+00:00",
+      "audio": "audio/2026-11-17-rundown-ai.mp3",
+      "bytes": 1532780,
+      "duration": 192,
+      "turns": 6
+    },
+    {
       "id": "2026-11-17-1440",
       "title": "The 1440 Daily Digest \u2014 Nov 17: Trump in Asia, the New James Bond, and Movie Watching Monkeys",
       "description": "November seventeenth, twenty twenty six. The 1440 Daily Digest newsletter. Trump in Asia, the New James Bond, and Movie Watching Monkeys.",
