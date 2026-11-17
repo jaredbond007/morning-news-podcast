@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-17-superhuman",
+      "title": "Superhuman \u2014 Nov 17: Maps get powerful new features",
+      "description": "November seventeenth, twenty twenty six. The Superhuman newsletter. Maps get powerful new features.",
+      "newsletter": "superhuman",
+      "published": "2026-11-17T14:29:33+00:00",
+      "audio": "audio/2026-11-17-superhuman.mp3",
+      "bytes": 1249580,
+      "duration": 156,
+      "turns": 8
+    },
+    {
       "id": "2026-11-17-rundown-ai",
       "title": "The Rundown AI \u2014 Nov 17: California takes OpenAI to court",
       "description": "November seventeenth, twenty twenty six. The Rundown AI newsletter. California takes OpenAI to court.",
