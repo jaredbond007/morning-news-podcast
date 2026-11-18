@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-18-1440",
+      "title": "The 1440 Daily Digest \u2014 Nov 18: Senate Race Called, Voyager Milestone, and Climbing Gorillas",
+      "description": "November eighteenth, twenty twenty six. The 1440 Daily Digest newsletter. Senate Race Called, Voyager Milestone, and Climbing Gorillas.",
+      "newsletter": "1440",
+      "published": "2026-11-18T09:45:30+00:00",
+      "audio": "audio/2026-11-18-1440.mp3",
+      "bytes": 2123948,
+      "duration": 265,
+      "turns": 7
+    },
+    {
       "id": "2026-11-17-superhuman",
       "title": "Superhuman \u2014 Nov 17: Maps get powerful new features",
       "description": "November seventeenth, twenty twenty six. The Superhuman newsletter. Maps get powerful new features.",
