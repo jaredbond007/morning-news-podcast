@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-19-rundown-ai",
+      "title": "The Rundown AI \u2014 Nov 19: Google's shipping spree continues with Neon",
+      "description": "November nineteenth, twenty twenty six. The Rundown AI newsletter. Google's shipping spree continues with Neon.",
+      "newsletter": "rundown-ai",
+      "published": "2026-11-19T11:31:19+00:00",
+      "audio": "audio/2026-11-19-rundown-ai.mp3",
+      "bytes": 1444652,
+      "duration": 180,
+      "turns": 6
+    },
+    {
       "id": "2026-11-19-1440",
       "title": "The 1440 Daily Digest \u2014 Nov 19: Trump, Xi, Putin Summit, Grand Theft Auto, and Animal Emissions",
       "description": "November nineteenth, twenty twenty six. The 1440 Daily Digest newsletter. Trump, Xi, Putin Summit, Grand Theft Auto, and Animal Emissions.",
