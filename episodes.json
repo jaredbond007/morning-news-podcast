@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-19-1440",
+      "title": "The 1440 Daily Digest \u2014 Nov 19: Trump, Xi, Putin Summit, Grand Theft Auto, and Animal Emissions",
+      "description": "November nineteenth, twenty twenty six. The 1440 Daily Digest newsletter. Trump, Xi, Putin Summit, Grand Theft Auto, and Animal Emissions.",
+      "newsletter": "1440",
+      "published": "2026-11-19T09:46:04+00:00",
+      "audio": "audio/2026-11-19-1440.mp3",
+      "bytes": 2202284,
+      "duration": 275,
+      "turns": 8
+    },
+    {
       "id": "2026-11-18-superhuman",
       "title": "Superhuman \u2014 Nov 18: Huang breaks his silence",
       "description": "November eighteenth, twenty twenty six. The Superhuman newsletter. Huang breaks his silence.",
