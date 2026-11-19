@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-19-superhuman",
+      "title": "Superhuman \u2014 Nov 19: Google's third new model in ten days",
+      "description": "November nineteenth, twenty twenty six. The Superhuman newsletter. Google's third new model in ten days.",
+      "newsletter": "superhuman",
+      "published": "2026-11-19T14:28:55+00:00",
+      "audio": "audio/2026-11-19-superhuman.mp3",
+      "bytes": 1353260,
+      "duration": 169,
+      "turns": 8
+    },
+    {
       "id": "2026-11-19-rundown-ai",
       "title": "The Rundown AI \u2014 Nov 19: Google's shipping spree continues with Neon",
       "description": "November nineteenth, twenty twenty six. The Rundown AI newsletter. Google's shipping spree continues with Neon.",
