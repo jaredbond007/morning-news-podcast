@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-19-robotics",
+      "title": "The Rundown Robotics \u2014 Nov 19: Waymo shuts down freeway rides everywhere",
+      "description": "November nineteenth, twenty twenty six. The Rundown Robotics newsletter. Waymo shuts down freeway rides everywhere.",
+      "newsletter": "robotics",
+      "published": "2026-11-19T15:44:41+00:00",
+      "audio": "audio/2026-11-19-robotics.mp3",
+      "bytes": 1351340,
+      "duration": 169,
+      "turns": 5
+    },
+    {
       "id": "2026-11-19-superhuman",
       "title": "Superhuman \u2014 Nov 19: Google's third new model in ten days",
       "description": "November nineteenth, twenty twenty six. The Superhuman newsletter. Google's third new model in ten days.",
