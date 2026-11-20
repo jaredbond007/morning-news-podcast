@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-20-superhuman",
+      "title": "Superhuman \u2014 Nov 20: Alljoined's new model reads brainwaves",
+      "description": "November twentieth, twenty twenty six. The Superhuman newsletter. Alljoined's new model reads brainwaves.",
+      "newsletter": "superhuman",
+      "published": "2026-11-20T14:29:33+00:00",
+      "audio": "audio/2026-11-20-superhuman.mp3",
+      "bytes": 1209068,
+      "duration": 151,
+      "turns": 7
+    },
+    {
       "id": "2026-11-20-rundown-ai",
       "title": "The Rundown AI \u2014 Nov 20: Anthropic beats OpenAI to Wall Street",
       "description": "November twentieth, twenty twenty six. The Rundown AI newsletter. Anthropic beats OpenAI to Wall Street.",
