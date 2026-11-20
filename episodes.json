@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-20-rundown-ai",
+      "title": "The Rundown AI \u2014 Nov 20: Anthropic beats OpenAI to Wall Street",
+      "description": "November twentieth, twenty twenty six. The Rundown AI newsletter. Anthropic beats OpenAI to Wall Street.",
+      "newsletter": "rundown-ai",
+      "published": "2026-11-20T11:24:29+00:00",
+      "audio": "audio/2026-11-20-rundown-ai.mp3",
+      "bytes": 1360556,
+      "duration": 170,
+      "turns": 5
+    },
+    {
       "id": "2026-11-20-1440",
       "title": "The 1440 Daily Digest \u2014 Nov 20: Iowa Dust Cloud, Myanmar Ruling, and Best Cheese",
       "description": "November twentieth, twenty twenty six. The 1440 Daily Digest newsletter. Iowa Dust Cloud, Myanmar Ruling, and Best Cheese.",
