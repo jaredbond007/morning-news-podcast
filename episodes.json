@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-20-1440",
+      "title": "The 1440 Daily Digest \u2014 Nov 20: Iowa Dust Cloud, Myanmar Ruling, and Best Cheese",
+      "description": "November twentieth, twenty twenty six. The 1440 Daily Digest newsletter. Iowa Dust Cloud, Myanmar Ruling, and Best Cheese.",
+      "newsletter": "1440",
+      "published": "2026-11-20T09:45:39+00:00",
+      "audio": "audio/2026-11-20-1440.mp3",
+      "bytes": 2049644,
+      "duration": 256,
+      "turns": 7
+    },
+    {
       "id": "2026-11-19-robotics",
       "title": "The Rundown Robotics \u2014 Nov 19: Waymo shuts down freeway rides everywhere",
       "description": "November nineteenth, twenty twenty six. The Rundown Robotics newsletter. Waymo shuts down freeway rides everywhere.",
