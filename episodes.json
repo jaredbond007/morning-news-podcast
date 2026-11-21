@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-21-1440",
+      "title": "The 1440 Daily Digest \u2014 Nov 21: CTE Blood Test, a Train Heist, and Old School Pumpkin Pie",
+      "description": "November twenty first, twenty twenty six. The 1440 Daily Digest newsletter. CTE Blood Test, a Train Heist, and Old School Pumpkin Pie.",
+      "newsletter": "1440",
+      "published": "2026-11-21T09:45:00+00:00",
+      "audio": "audio/2026-11-21-1440.mp3",
+      "bytes": 1543340,
+      "duration": 193,
+      "turns": 9
+    },
+    {
       "id": "2026-11-20-superhuman",
       "title": "Superhuman \u2014 Nov 20: Alljoined's new model reads brainwaves",
       "description": "November twentieth, twenty twenty six. The Superhuman newsletter. Alljoined's new model reads brainwaves.",
