@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-21-superhuman",
+      "title": "Superhuman \u2014 Nov 21: Scandal hits Eric Trump backed startup",
+      "description": "November twenty first, twenty twenty six. The Superhuman newsletter. Scandal hits Eric Trump backed startup.",
+      "newsletter": "superhuman",
+      "published": "2026-11-21T17:29:06+00:00",
+      "audio": "audio/2026-11-21-superhuman.mp3",
+      "bytes": 1405100,
+      "duration": 176,
+      "turns": 7
+    },
+    {
       "id": "2026-11-21-1440",
       "title": "The 1440 Daily Digest \u2014 Nov 21: CTE Blood Test, a Train Heist, and Old School Pumpkin Pie",
       "description": "November twenty first, twenty twenty six. The 1440 Daily Digest newsletter. CTE Blood Test, a Train Heist, and Old School Pumpkin Pie.",
