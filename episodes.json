@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-22-superhuman",
+      "title": "Superhuman \u2014 Nov 22: One light day from home",
+      "description": "November twenty second, twenty twenty six. The Superhuman newsletter. One light day from home.",
+      "newsletter": "superhuman",
+      "published": "2026-11-22T17:29:42+00:00",
+      "audio": "audio/2026-11-22-superhuman.mp3",
+      "bytes": 1312940,
+      "duration": 164,
+      "turns": 8
+    },
+    {
       "id": "2026-11-21-superhuman",
       "title": "Superhuman \u2014 Nov 21: Scandal hits Eric Trump backed startup",
       "description": "November twenty first, twenty twenty six. The Superhuman newsletter. Scandal hits Eric Trump backed startup.",
