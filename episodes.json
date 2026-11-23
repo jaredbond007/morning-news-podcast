@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-23-rundown-ai",
+      "title": "The Rundown AI \u2014 Nov 23: Claude helps solve math's biggest open problem",
+      "description": "November twenty third, twenty twenty six. The Rundown AI newsletter. Claude helps solve math's biggest open problem.",
+      "newsletter": "rundown-ai",
+      "published": "2026-11-23T11:24:27+00:00",
+      "audio": "audio/2026-11-23-rundown-ai.mp3",
+      "bytes": 1459628,
+      "duration": 182,
+      "turns": 6
+    },
+    {
       "id": "2026-11-23-1440",
       "title": "The 1440 Daily Digest \u2014 Nov 23: Delta Delays, Math Breakthrough, and a Mini Moon",
       "description": "November twenty third, twenty twenty six. The 1440 Daily Digest newsletter. Delta Delays, Math Breakthrough, and a Mini Moon.",
