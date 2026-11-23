@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-23-robotics",
+      "title": "The Rundown Robotics \u2014 Nov 23: Nvidia's robot king returns",
+      "description": "November twenty third, twenty twenty six. The Rundown Robotics newsletter. Nvidia's robot king returns.",
+      "newsletter": "robotics",
+      "published": "2026-11-23T15:55:06+00:00",
+      "audio": "audio/2026-11-23-robotics.mp3",
+      "bytes": 1517036,
+      "duration": 190,
+      "turns": 5
+    },
+    {
       "id": "2026-11-23-superhuman",
       "title": "Superhuman \u2014 Nov 23: AI solves one of math's hardest problems",
       "description": "November twenty third, twenty twenty six. The Superhuman newsletter. AI solves one of math's hardest problems.",
