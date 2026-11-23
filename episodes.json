@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-23-1440",
+      "title": "The 1440 Daily Digest \u2014 Nov 23: Delta Delays, Math Breakthrough, and a Mini Moon",
+      "description": "November twenty third, twenty twenty six. The 1440 Daily Digest newsletter. Delta Delays, Math Breakthrough, and a Mini Moon.",
+      "newsletter": "1440",
+      "published": "2026-11-23T09:44:23+00:00",
+      "audio": "audio/2026-11-23-1440.mp3",
+      "bytes": 2041196,
+      "duration": 255,
+      "turns": 7
+    },
+    {
       "id": "2026-11-22-superhuman",
       "title": "Superhuman \u2014 Nov 22: One light day from home",
       "description": "November twenty second, twenty twenty six. The Superhuman newsletter. One light day from home.",
