@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-24-superhuman",
+      "title": "Superhuman \u2014 Nov 24: Jensen's back",
+      "description": "November twenty fourth, twenty twenty six. The Superhuman newsletter. Jensen's back.",
+      "newsletter": "superhuman",
+      "published": "2026-11-24T14:29:35+00:00",
+      "audio": "audio/2026-11-24-superhuman.mp3",
+      "bytes": 1330604,
+      "duration": 166,
+      "turns": 8
+    },
+    {
       "id": "2026-11-24-rundown-ai",
       "title": "The Rundown AI \u2014 Nov 24: Jensen Huang returns to Nvidia",
       "description": "November twenty fourth, twenty twenty six. The Rundown AI newsletter. Jensen Huang returns to Nvidia.",
