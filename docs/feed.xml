@@ -7,7 +7,7 @@
     <link>https://jaredbond007.github.io/morning-news-podcast/</link>
     <description>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 09:45:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 11:25:09 +0000</lastBuildDate>
     <atom:link href="https://jaredbond007.github.io/morning-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jared A. Bond</itunes:author>
     <itunes:summary>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</itunes:summary>
@@ -18,6 +18,16 @@
     <itunes:image href="https://jaredbond007.github.io/morning-news-podcast/cover.png"/>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>The Rundown AI — Nov 24: Jensen Huang returns to Nvidia</title>
+      <description>November twenty fourth, twenty twenty six. The Rundown AI newsletter. Jensen Huang returns to Nvidia.</description>
+      <pubDate>Tue, 24 Nov 2026 11:25:08 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-11-24-rundown-ai.mp3" length="1435628" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-24-rundown-ai</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>2:59</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>The 1440 Daily Digest — Nov 24: Huang Returns, Cartel Chaos, and the First Thanksgiving Menu</title>
       <description>November twenty fourth, twenty twenty six. The 1440 Daily Digest newsletter. Huang Returns, Cartel Chaos, and the First Thanksgiving Menu.</description>

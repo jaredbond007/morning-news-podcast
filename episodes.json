@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-24-rundown-ai",
+      "title": "The Rundown AI \u2014 Nov 24: Jensen Huang returns to Nvidia",
+      "description": "November twenty fourth, twenty twenty six. The Rundown AI newsletter. Jensen Huang returns to Nvidia.",
+      "newsletter": "rundown-ai",
+      "published": "2026-11-24T11:25:08+00:00",
+      "audio": "audio/2026-11-24-rundown-ai.mp3",
+      "bytes": 1435628,
+      "duration": 179,
+      "turns": 6
+    },
+    {
       "id": "2026-11-24-1440",
       "title": "The 1440 Daily Digest \u2014 Nov 24: Huang Returns, Cartel Chaos, and the First Thanksgiving Menu",
       "description": "November twenty fourth, twenty twenty six. The 1440 Daily Digest newsletter. Huang Returns, Cartel Chaos, and the First Thanksgiving Menu.",
