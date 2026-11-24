@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-24-1440",
+      "title": "The 1440 Daily Digest \u2014 Nov 24: Huang Returns, Cartel Chaos, and the First Thanksgiving Menu",
+      "description": "November twenty fourth, twenty twenty six. The 1440 Daily Digest newsletter. Huang Returns, Cartel Chaos, and the First Thanksgiving Menu.",
+      "newsletter": "1440",
+      "published": "2026-11-24T09:45:14+00:00",
+      "audio": "audio/2026-11-24-1440.mp3",
+      "bytes": 1904108,
+      "duration": 238,
+      "turns": 7
+    },
+    {
       "id": "2026-11-23-robotics",
       "title": "The Rundown Robotics \u2014 Nov 23: Nvidia's robot king returns",
       "description": "November twenty third, twenty twenty six. The Rundown Robotics newsletter. Nvidia's robot king returns.",
