@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-25-superhuman",
+      "title": "Superhuman \u2014 Nov 25: Anthropic lets you build custom Mac or PC apps with Claude",
+      "description": "November twenty fifth, twenty twenty six. The Superhuman newsletter. Anthropic lets you build custom Mac or PC apps with Claude.",
+      "newsletter": "superhuman",
+      "published": "2026-11-25T14:29:14+00:00",
+      "audio": "audio/2026-11-25-superhuman.mp3",
+      "bytes": 1235372,
+      "duration": 154,
+      "turns": 8
+    },
+    {
       "id": "2026-11-25-rundown-ai",
       "title": "The Rundown AI \u2014 Nov 25: Three xAI founders want AI to predict the future",
       "description": "November twenty fifth, twenty twenty six. The Rundown AI newsletter. Three xAI founders want AI to predict the future.",
