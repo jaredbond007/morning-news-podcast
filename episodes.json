@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-25-rundown-ai",
+      "title": "The Rundown AI \u2014 Nov 25: Three xAI founders want AI to predict the future",
+      "description": "November twenty fifth, twenty twenty six. The Rundown AI newsletter. Three xAI founders want AI to predict the future.",
+      "newsletter": "rundown-ai",
+      "published": "2026-11-25T11:24:35+00:00",
+      "audio": "audio/2026-11-25-rundown-ai.mp3",
+      "bytes": 1399532,
+      "duration": 175,
+      "turns": 6
+    },
+    {
       "id": "2026-11-25-1440",
       "title": "The 1440 Daily Digest \u2014 Nov 25: Turkey Day, Iowa Lead Dust, and Dinner Party Tips",
       "description": "November twenty fifth, twenty twenty six. The 1440 Daily Digest newsletter. Turkey Day, Iowa Lead Dust, and Dinner Party Tips.",
