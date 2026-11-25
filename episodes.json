@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-25-1440",
+      "title": "The 1440 Daily Digest \u2014 Nov 25: Turkey Day, Iowa Lead Dust, and Dinner Party Tips",
+      "description": "November twenty fifth, twenty twenty six. The 1440 Daily Digest newsletter. Turkey Day, Iowa Lead Dust, and Dinner Party Tips.",
+      "newsletter": "1440",
+      "published": "2026-11-25T09:44:35+00:00",
+      "audio": "audio/2026-11-25-1440.mp3",
+      "bytes": 2110316,
+      "duration": 264,
+      "turns": 7
+    },
+    {
       "id": "2026-11-24-superhuman",
       "title": "Superhuman \u2014 Nov 24: Jensen's back",
       "description": "November twenty fourth, twenty twenty six. The Superhuman newsletter. Jensen's back.",
