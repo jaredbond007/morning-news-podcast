@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-26-robotics",
+      "title": "The Rundown Robotics \u2014 Nov 26: Your future housekeeper might be an XPeng",
+      "description": "November twenty sixth, twenty twenty six. The Rundown Robotics newsletter. Your future housekeeper might be an XPeng.",
+      "newsletter": "robotics",
+      "published": "2026-11-26T15:44:29+00:00",
+      "audio": "audio/2026-11-26-robotics.mp3",
+      "bytes": 1366508,
+      "duration": 171,
+      "turns": 5
+    },
+    {
       "id": "2026-11-26-superhuman",
       "title": "Superhuman \u2014 Nov 26: Startup unveils AI time machine",
       "description": "November twenty sixth, twenty twenty six. The Superhuman newsletter. Startup unveils AI time machine.",
