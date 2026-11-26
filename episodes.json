@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-26-rundown-ai",
+      "title": "The Rundown AI \u2014 Nov 26: Your AI cheat sheet for Thanksgiving dinner",
+      "description": "November twenty sixth, twenty twenty six. The Rundown AI newsletter. Your AI cheat sheet for Thanksgiving dinner.",
+      "newsletter": "rundown-ai",
+      "published": "2026-11-26T11:24:59+00:00",
+      "audio": "audio/2026-11-26-rundown-ai.mp3",
+      "bytes": 1421036,
+      "duration": 178,
+      "turns": 6
+    },
+    {
       "id": "2026-11-25-superhuman",
       "title": "Superhuman \u2014 Nov 25: Anthropic lets you build custom Mac or PC apps with Claude",
       "description": "November twenty fifth, twenty twenty six. The Superhuman newsletter. Anthropic lets you build custom Mac or PC apps with Claude.",
