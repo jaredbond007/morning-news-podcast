@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-26-superhuman",
+      "title": "Superhuman \u2014 Nov 26: Startup unveils AI time machine",
+      "description": "November twenty sixth, twenty twenty six. The Superhuman newsletter. Startup unveils AI time machine.",
+      "newsletter": "superhuman",
+      "published": "2026-11-26T14:29:19+00:00",
+      "audio": "audio/2026-11-26-superhuman.mp3",
+      "bytes": 1162988,
+      "duration": 145,
+      "turns": 8
+    },
+    {
       "id": "2026-11-26-rundown-ai",
       "title": "The Rundown AI \u2014 Nov 26: Your AI cheat sheet for Thanksgiving dinner",
       "description": "November twenty sixth, twenty twenty six. The Rundown AI newsletter. Your AI cheat sheet for Thanksgiving dinner.",
