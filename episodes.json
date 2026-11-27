@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-27-rundown-ai",
+      "title": "The Rundown AI \u2014 Nov 27: AI takes a swing at physics' biggest puzzle",
+      "description": "November twenty seventh, twenty twenty six. The Rundown AI newsletter. AI takes a swing at physics' biggest puzzle.",
+      "newsletter": "rundown-ai",
+      "published": "2026-11-27T11:24:33+00:00",
+      "audio": "audio/2026-11-27-rundown-ai.mp3",
+      "bytes": 1379756,
+      "duration": 172,
+      "turns": 6
+    },
+    {
       "id": "2026-11-26-robotics",
       "title": "The Rundown Robotics \u2014 Nov 26: Your future housekeeper might be an XPeng",
       "description": "November twenty sixth, twenty twenty six. The Rundown Robotics newsletter. Your future housekeeper might be an XPeng.",
