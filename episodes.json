@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-27-superhuman",
+      "title": "Superhuman \u2014 Nov 27: Nvidia hits pause",
+      "description": "November twenty seventh, twenty twenty six. The Superhuman newsletter. Nvidia hits pause.",
+      "newsletter": "superhuman",
+      "published": "2026-11-27T14:29:03+00:00",
+      "audio": "audio/2026-11-27-superhuman.mp3",
+      "bytes": 1306220,
+      "duration": 163,
+      "turns": 7
+    },
+    {
       "id": "2026-11-27-rundown-ai",
       "title": "The Rundown AI \u2014 Nov 27: AI takes a swing at physics' biggest puzzle",
       "description": "November twenty seventh, twenty twenty six. The Rundown AI newsletter. AI takes a swing at physics' biggest puzzle.",
