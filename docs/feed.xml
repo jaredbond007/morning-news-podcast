@@ -7,7 +7,7 @@
     <link>https://jaredbond007.github.io/morning-news-podcast/</link>
     <description>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Nov 2026 09:44:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 17:29:48 +0000</lastBuildDate>
     <atom:link href="https://jaredbond007.github.io/morning-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jared A. Bond</itunes:author>
     <itunes:summary>Daily summaries of the newsletters Jared subscribes to, read aloud. One episode per newsletter, published as each one arrives.</itunes:summary>
@@ -18,6 +18,16 @@
     <itunes:image href="https://jaredbond007.github.io/morning-news-podcast/cover.png"/>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Superhuman — Nov 28: Home robots, sooner than expected?</title>
+      <description>November twenty eighth, twenty twenty six. The Superhuman newsletter. Home robots, sooner than expected?</description>
+      <pubDate>Sat, 28 Nov 2026 17:29:48 +0000</pubDate>
+      <enclosure url="https://jaredbond007.github.io/morning-news-podcast/audio/2026-11-28-superhuman.mp3" length="1446956" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-28-superhuman</guid>
+      <itunes:author>Jared A. Bond</itunes:author>
+      <itunes:duration>3:01</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>The 1440 Daily Digest — Nov 28: Macy's Day Parade, Rocker the Coonhound, and Christmas Tree Guides</title>
       <description>November twenty eighth, twenty twenty six. The 1440 Daily Digest newsletter. Macy's Day Parade, Rocker the Coonhound, and Christmas Tree Guides.</description>
