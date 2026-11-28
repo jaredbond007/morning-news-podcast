@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "2026-11-28-1440",
+      "title": "The 1440 Daily Digest \u2014 Nov 28: Macy's Day Parade, Rocker the Coonhound, and Christmas Tree Guides",
+      "description": "November twenty eighth, twenty twenty six. The 1440 Daily Digest newsletter. Macy's Day Parade, Rocker the Coonhound, and Christmas Tree Guides.",
+      "newsletter": "1440",
+      "published": "2026-11-28T09:44:52+00:00",
+      "audio": "audio/2026-11-28-1440.mp3",
+      "bytes": 1387628,
+      "duration": 173,
+      "turns": 8
+    },
+    {
       "id": "2026-11-27-superhuman",
       "title": "Superhuman \u2014 Nov 27: Nvidia hits pause",
       "description": "November twenty seventh, twenty twenty six. The Superhuman newsletter. Nvidia hits pause.",
